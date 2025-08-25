@@ -1,0 +1,8 @@
+#환경변수
+.env
+
+#인덱스 파일
+last_data
+
+#json 파일
+.json

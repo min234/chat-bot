@@ -1,0 +1,2238 @@
+{
+"modules":[
+{
+  "big_title": "Cách tham gia trò chơi",
+  "sections": [
+    {
+      "section": "I. Phương pháp chung",
+      "subsections": [
+        {
+          "title": "Điều kiện tham gia",
+          "items": [
+            "Tất cả người chơi cần đăng ký tài khoản bằng email hoặc số điện thoại",
+            "Mỗi ngày nhận 1.000 point miễn phí (reset lúc 07:00 hàng ngày)",
+            "Để đổi thưởng cần xác minh KYC (CMND/CCCD + số điện thoại)",
+            "Mỗi người chỉ được 1 tài khoản, 1 thiết bị và 1 IP"
+          ]
+        },
+        {
+          "title": "Quy định chung",
+          "items": [
+            "Nghiêm cấm các hành vi: spam, sử dụng bot, tạo nhiều tài khoản",
+            "Hình phạt: Cảnh cáo → Khóa tài khoản → Cấm IP nếu vi phạm",
+            "Điểm (point) chỉ có giá trị trong game, không quy đổi thành tiền mặt"
+          ]
+        },
+        {
+          "title": "Đổi thưởng",
+          "items": [
+            "Đạt ít nhất 10.000 point + hoàn thành KYC + chơi ít nhất 10 lệnh hợp lệ",
+            "Bấm nút \"Đổi thưởng\" trên trang sự kiện",
+            "Chọn phần thưởng: Voucher hoặc USDT",
+            "Hệ thống sẽ gửi thông báo “Đang xử lý”, và quà sẽ được chuyển trong 1–2 ngày làm việc"
+          ]
+        },
+        {
+          "title": "Lưu ý",
+          "items": [
+            "Nếu tài khoản của người dùng bị phát hiện có dấu hiệu spam, trùng IP, thiết bị hoặc click bất thường, sẽ dẫn đến hủy thưởng và có thể khóa tài khoản",
+            "Mỗi UID chỉ nhận được bonus KYC và phần thưởng một lần duy nhất",
+            "Chỉ tài khoản đã xác minh đầy đủ (KYC + SĐT) mới có thể đổi thưởng",
+            "Tài khoản phụ, tài khoản tổ chức và tài khoản tự động/bot không đủ điều kiện tham gia sự kiện"
+          ]
+        },
+        {
+          "title": "Điều khoản khác",
+          "items": [
+            "Bitruth giữ quyền giải thích cuối cùng và điều chỉnh thể lệ sự kiện",
+            "Việc tham gia sự kiện đồng nghĩa với việc đồng ý hoàn toàn với các điều khoản trên",
+            "Cơ cấu sự kiện và phần thưởng có thể thay đổi tùy theo điều kiện thị trường"
+          ]
+        },
+        {
+          "title": "Hỗ trợ",
+          "items": [
+            "Trực tiếp livechat tại website https://bitruth.com/"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "II. THỂ LỆ TỪNG TRÒ CHƠI",
+      "subsections": [
+        {
+          "title": "FUTURES X1000 (MÔ PHỎNG GIAO DỊCH)",
+          "sub": [
+            {
+              "title": "Cách chơi",
+              "items": [
+                "Nhận 1.000 point mỗi ngày (reset lúc 07:00 mỗi ngày)",
+                "Mỗi lệnh đặt tối thiểu 200 point",
+                "Lệnh đúng: giữ điểm hoặc nhân lợi nhuận tương ứng",
+                "Lệnh sai: mất điểm đã cược"
+              ]
+            },
+            {
+              "title": "Ưu đãi",
+              "items": [
+                "Thắng 3 ngày liên tiếp: +10% tổng điểm",
+                "Thử thách phụ (ví dụ: \"5 Wins Combo\" thưởng +2.000 point)"
+              ]
+            },
+            {
+              "title": "Quy định",
+              "items": [
+                "Không đặt lệnh dưới 200 point",
+                "Hết điểm có thể:",
+                "Chờ reset ngày hôm sau",
+                "Mời bạn bè để nhận thêm 1.000 point"
+              ]
+            }
+          ]
+        },
+        {
+          "title": "OPTION GAME (DỰ ĐOÁN GIÁ 1 PHÚT)",
+          "subsections": [
+            {
+              "title": "Cách chơi",
+              "items": [
+                "Chế độ thật: cần KYC để đổi thưởng",
+                "Dự đoán giá BTC/ETH tăng hoặc giảm sau 60 giây",
+                "Dự đoán đúng: nhận x1.95 điểm cược",
+                "Dự đoán sai: mất điểm"
+              ]
+            },
+            {
+              "title": "Lưu ý",
+              "items": [
+                "Mỗi người chỉ 1 tài khoản/thiết bị",
+                "Nghiêm cấm sử dụng bot/spam"
+              ]
+            },
+            {
+              "title": "Phần thưởng",
+              "items": [
+                "Thắng ≥10 lệnh/ngày: mở Lucky Box",
+                "Top tuần: nhận danh hiệu \"Pro Badge\""
+              ]
+            }
+          ]
+        },
+        {
+          "title": "HIGH/LOW (DỰ ĐOÁN NẾN NGẮN HẠN)",
+          "subsections": [
+            {
+              "title": "Cách chơi",
+              "items": [
+                "Chế độ High/Low: dự đoán hướng nến (1 phút)",
+                "Chế độ Open/Close: dự đoán giá đóng/mở cửa",
+                "Dự đoán đúng: +50% điểm cược",
+                "Dự đoán sai: mất điểm"
+              ]
+            },
+            {
+              "title": "Quy định",
+              "items": [
+                "Đã KYC: không giới hạn lượt chơi"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "big_title": "GAME TRADING - GIAO DỊCH THẬT",
+  "sections": [
+    {
+      "section": "I. Sự kiện “GAME TRADING - GIAO DỊCH THẬT” là gì",
+      "subsections": [
+        {
+          "title": "",
+          "items": [
+            "Đây là sự kiện trải nghiệm giao dịch mô phỏng (Game Trading) trên sàn Bitruth, nơi người dùng nhận 1.000 point mỗi ngày để tham gia các trò chơi như Futures x1000, Option Game, và High/Low mà không cần nạp tiền và không rủi ro.",
+            "Người chơi sẽ sử dụng point để dự đoán giá thị trường (tăng/giảm), hoàn thành các thử thách (win streak, risk lover, comeback...), tích lũy điểm để lên bảng xếp hạng, và đổi point thành voucher hoặc USDT khi đủ điều kiện.",
+            "Sự kiện vừa mang tính giải trí, vừa giúp người chơi hiểu cơ chế giao dịch thật, và là bước đệm để chuyển đổi từ “người chơi game” thành “người giao dịch thật” trên Bitruth."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "II. Thời gian diễn ra sự kiện",
+      "subsections": [
+        {
+          "title": "Thời gian kết thúc sự kiện",
+          "items": [
+            "02/07/2025 - 28/07/2025"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "III. Đối tượng tham gia",
+      "subsections": [
+        {
+          "title": "",
+          "items": [
+            "Tất cả người dùng đã đăng ký tài khoản Bitruth",
+            "Đã xác minh số điện thoại (OTP)",
+            "Đã hoàn tất xác minh danh tính (KYC)",
+            "Chỉ những người dùng đủ điều kiện KYC + OTP mới được đổi thưởng, nhận voucher hoặc USDT sau khi tham gia và đạt các mốc điểm hợp lệ."
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Các câu hỏi phụ",
+      "subsections": [
+        {
+          "title": "1. Tôi có thể chơi bao nhiêu lần/ngày?",
+          "items": [
+            "Futures: không giới hạn lệnh, nhưng điểm sẽ reset mỗi ngày."
+          ]
+        },
+        {
+          "title": "2. Làm sao để nhận phần thưởng thật?",
+          "items": [
+            "Cần KYC và xác thực số điện thoại và đăng nhập vào nền tảng Futures."
+          ]
+        },
+        {
+          "title": "3. Tôi có thể dùng nhiều tài khoản để chơi thêm?",
+          "items": [
+            "Không. Hệ thống kiểm tra IP + thiết bị + OTP. Tài khoản vi phạm sẽ bị khóa thưởng."
+          ]
+        },
+        {
+          "title": "4. Giá lấy từ đâu? Có real-time không?",
+          "items": [
+            "Giá được lấy từ Binance với độ trễ nhỏ và cộng thêm ±0.1–0.3% để chống spam tool."
+          ]
+        },
+        {
+          "title": "5. Tôi thắng nhiều thì có được gì thêm không?",
+          "items": [
+            "Có! Người dùng sẽ được thưởng thêm điểm, mở Lucky Box, hiện tên lên bảng xếp hạng, và có cơ hội nhận USDT khi chuyển sang giao dịch thật."
+          ]
+        },
+        {
+          "title": "6. Khiếu nại dự đoán sai",
+          "items": [
+            "Cung cấp hình ảnh giao dịch liên quan, TXID và thời gian thực hiện đặt lệnh đến bộ phận CSKH tại website hoặc Discord.",
+            "Sau khi nhận, bộ phận kỹ thuật sẽ kiểm tra và phản hồi trong vòng xx giờ."
+          ]
+        },
+        {
+          "title": "7. Tôi có thể cộng dồn points không?",
+          "items": [
+            "Hiện không hỗ trợ cộng dồn điểm. Người dùng được giữ lại point, nhưng không được cộng dồn thêm 1.000 mỗi ngày nếu đã vượt ngưỡng 1.000.",
+            "Điểm cộng thêm chỉ áp dụng nếu người dùng có dưới 1.000 VNĐ, hệ thống sẽ reset lên đúng 1.000."
+          ]
+        },
+        {
+          "title": "8. Điểm (point) có quy đổi thành tiền mặt không?",
+          "items": [
+            "Không. Điểm chỉ dùng để chơi game và đổi voucher/USDT theo quy định của sàn."
+          ]
+        },
+        {
+          "title": "9. Tại sao cần xác minh KYC?",
+          "items": [
+            "Việc xác minh KYC giúp đảm bảo công bằng và an toàn cho người chơi. Nó giúp ngăn chặn gian lận (spam, bot, tài khoản ảo), đảm bảo mỗi người chỉ tham gia 1 lần và đủ điều kiện nhận thưởng.",
+            "Chỉ tài khoản đã KYC mới được đổi quà."
+          ]
+        },
+        {
+          "title": "10. Tôi chưa KYC thì có chơi được không?",
+          "items": [
+            "Có. Bạn vẫn có thể tham gia chơi game và nhận point mỗi ngày.",
+            "Tuy nhiên, để đổi thưởng hoặc nhận USDT, bạn bắt buộc phải hoàn tất KYC và xác minh SĐT."
+          ]
+        },
+        {
+          "title": "11. Tôi có thể mời bao nhiêu người để nhận lại 1.000 point?",
+          "items": [
+            "Bạn có thể mời nhiều người, nhưng chỉ khi người được mời đăng ký + xác minh OTP thành công thì bạn mới nhận được điểm."
+          ]
+        },
+        {
+          "title": "12. Tôi cần hỗ trợ trực tiếp thì liên hệ ở đâu?",
+          "items": [
+            "Live chat tại website Bitruth (góc dưới phải màn hình)",
+            "Email: contact@bitruth.com (kèm ảnh chụp màn hình, thời gian, UID hoặc TXID để hỗ trợ nhanh chóng nhất)"
+          ]
+        },
+        {
+          "title": "13. Voucher đổi từ shop để làm gì?",
+          "items": [
+            "Voucher đổi từ shop dùng để thực  hiện trade các giao dịch Futures trực tiếp trên sàn."
+          ]
+        },
+        {
+          "title": "14. 50.000 điểm đổi được quà gì không?",
+          "items": [
+            "50,000 điểm có thể đổi thành voucher 50USDT và 5 Lucky Box"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Đề xuất Dashboard CS",
+      "subsections": [
+        {
+          "title": "",
+          "items": [
+            "Tổng quan user (UID, KYC, point, trạng thái game)",
+            "Các mốc đã hoàn thành: đã chơi bao lệnh, đã invite, đã win streak...",
+            "Trạng thái hiện tại: đang chơi, đã redeem, đang pending",
+            "Tra cứu & kiểm tra trạng thái user nhanh (Quick User Lookup): UID/SDT, trạng thái tài khoản (K1, K2, K3), lịch sử +point/-point",
+            "Công cụ kiểm tra lịch sử giao dịch game",
+            "Công cụ kiểm tra reward của User: Check được user đã đổi reward nào, thời gian redeem"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "big_title": "sự kiện",
+  "sections": [
+    {
+      "section": "1. Giới Thiệu Chung",
+      "subsections": [
+        {
+          "title": "Loại sự kiện",
+          "items": [
+           "Futures x1000, ",
+          "Option Game,",
+           "vàHigh/Low " 
+           ]
+        },
+        {
+          "title": "Thời gian kết thúc sự kiện",
+          "items": [
+           "Thời gian sự kiện kết thúc vào ngày 28/07/2025"
+           ]
+        },
+        {
+          "title": "Tổng quan về sự kiện",
+          "items": [
+            "Game to Gain: Giao dịch Vui – Rinh Quà Đậm là sự kiện trải nghiệm giao dịch mô phỏng đột phá của Bitruth, mang đến cơ hội học hỏi và kiếm thưởng hoàn toàn miễn phí cho người dùng.",
+            "Với 1.000 point được tặng mỗi ngày, người chơi có thể tham gia các trò chơi đa dạng như Futures x1000, Option Game, và High/Low để dự đoán biến động giá thị trường mà không cần nạp tiền hay lo ngại rủi ro tài chính.",
+            "Sự kiện không chỉ đơn thuần là giải trí mà còn giúp người chơi hiểu rõ cơ chế giao dịch thật thông qua việc hoàn thành các thử thách hấp dẫn như win streak, risk lover, comeback.",
+            "Người chơi sẽ tích lũy điểm, cạnh tranh trên bảng xếp hạng và đổi point thành những phần thưởng thực tế có giá trị như USDT và Lucky Box.",
+            "Không cần nạp tiền – Không rủi ro – Chơi càng nhiều, phần thưởng càng lớn!"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "2. Hướng dẫn tham gia",
+      "subsections": [
+        {
+          "title": "Cách bắt đầu",
+          "items": [
+            "Đăng ký tại https://bitruth.com/ - Nhanh chóng, miễn phí 100%",
+            "Xác minh OTP - Bảo mật tối đa cho tài khoản của bạn",
+            "Nhận ngay 1.000 point - Tự động reset mỗi ngày lúc 07:00 AM",
+            "Truy cập game → Chọn 1 trong 3 chế độ giao dịch → Bắt đầu hành trình tìm kiếm điểm thưởng"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "3. Hướng dẫn cách chơi các chế độ",
+      "subsections": [
+        {
+          "title": "Futures – Auto mode",
+          "items": [
+            "Bước 1: Chọn đồng coin bạn muốn giao dịch: BTC, ETH, SOL,...",
+            "Bước 2: Chuyển sang chế độ Tự động, chọn Tăng hoặc Giảm, nhập Khối lượng và mức Đòn bẩy.",
+            "Bước 3: Thiết lập mức giá chốt lời và đóng lệnh sau đó bấm Đặt lệnh.",
+            "Bước 4: Xem lãi/lỗ tại Lệnh đang mở.",
+            "Bước 5: Bấm Đóng lệnh để thoát vị thế hiện tại.",
+            "Bước 6: Xem lịch sử giao dịch tại Lệnh đã chốt."
+          ]
+        },
+        {
+          "title": "Futures – Manual mode",
+          "items": [
+            "Bước 1: Chọn đồng coin bạn muốn giao dịch: BTC, ETH, SOL,...",
+            "Bước 2: Chọn Tăng hoặc Giảm, nhập Khối lượng, mức Đòn bẩy",
+            "Bước 3: Bấm Đặt lệnh.",
+            "Bước 4: Xem lãi/lỗ tại Lệnh đang mở.",
+            "Bước 5: Bấm Đóng lệnh để thoát vị thế hiện tại.",
+            "Bước 6: Xem lịch sử giao dịch tại Lệnh đã chốt."
+          ]
+        },
+        {
+          "title": "Options",
+          "items": [
+            "Chèn thêm hình: https://prnt.sc/2n4lIo6-SA4H",
+            "Bước 1: Chọn đồng coin bạn muốn giao dịch: BTC, ETH, SOL,...",
+            "Bước 2: Chọn khung thời gian: 1m, 2m, 3m, 5m.",
+            "Bước 3: Trong giai đoạn Thời gian dự đoán, nhập Khối lượng và chọn Tăng hoặc Giảm.",
+            "Bước 4: Xem lệnh tại mục Lệnh đang mở và chờ đợi kết quả",
+            "Bước 5: Xem lịch sử giao dịch tại Lệnh đã chốt."
+          ]
+        },
+        {
+          "title": "High-Low",
+          "items": [
+            "Bước 1: Chọn đồng coin bạn muốn giao dịch: BTC, ETH, SOL,...",
+            "Bước 2: Nhập Khối lượng.",
+            "Bước 3: Chọn Khung thời gian.",
+            "Bước 4: Chọn Tăng hoặc Giảm.",
+            "Bước 5: Theo dõi đếm ngược tại Lệnh đang mở.",
+            "Bước 6: Sau khi hết thời gian, xem lãi/lỗ tại Lệnh đã chốt."
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "big_title": "Sứ mệnh",
+  "sections": [
+    {
+      "section": "1. Các loại nhiệm vụ",
+      "subsections": [
+        {
+          "title": "Nhiệm vụ hàng ngày",
+          "items": [
+            "Điểm danh mỗi ngày: Nhận từ +100 đến +5.000 Points và 1 Lucky Box",
+            "Thực hiện ít nhất một lệnh chơi các chế độ Futures / Options / High-Low: +200 Points cho mỗi chế độ",
+            "Hoàn thành 3 nhiệm vụ bất kỳ trong ngày: +1.000 Points",
+            "Thực hiện mời bạn bè đăng ký và tham gia qua link giới thiệu: +1.000 Points / người"
+          ]
+        },
+        {
+          "title": "Thành tựu đặc biệt (Nhận 1 lần duy nhất)",
+          "items": [
+            "Đã hoàn tất xác thực danh tính (KYC)",
+            "Tham gia game trở lại sau thời gian không hoạt động",
+            "Thực hiện đổi điểm thưởng tại Cửa hàng ưu đãi",
+            "Nhấn theo dõi các trang mạng xã hội của Bitruth (YouTube, Facebook, ...)",
+            "Tham gia cộng đồng Discord",
+            "Thực hiện giao dịch đầu tiên từ 10.000 điểm trở lên"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "2. Mini-Challenges (Sắp ra mắt)",
+      "subsections": [
+        {
+          "title": "Các thử thách",
+          "items": [
+            "5 Wins Combo",
+            "Comeback Trader",
+            "Risk Lover",
+            "Volume Hunter"
+          ]
+        },
+        {
+          "title": "Phần thưởng",
+          "items": [
+            "+1.000 đến +2.000 Points kèm Lucky Box"
+          ]
+        }
+      ]
+    },
+    {
+      "section": "Bonus Missions",
+      "subsections": [
+        {
+          "title": "Bug Seeker",
+          "items": [
+            "Bạn có cơ hội nhận thưởng từ 1000 - 10000 điểm thưởng khi thực hiện báo lỗi hợp lệ tại đây (add link form)"
+          ]
+        }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"Bitruth là gì",
+  "sections":[
+    {
+      "section":"BITRUTH MANUAL",
+      "subsections": [
+        {
+          "title": "Tổng quan về Bitruth.",
+          "items": [
+           " Bitruth là nền tảng giao dịch tiền mã hoá toàn cầu, phát triển với định hướng kết hợp giao dịch và yếu tố gamification để mang lại trải nghiệm mới mẻ, công bằng và an toàn cho mọi người dùng.",
+            "Bitruth hỗ trợ nhiều loại tài sản số khác nhau, từ giao dịch giao ngay (spot), phái sinh (futures) và trong tương lai là giao dịch P2P.",
+            "Sàn hoạt động 24/7, áp dụng các tiêu chuẩn bảo mật nghiêm ngặt, quy trình KYC minh bạch và cam kết bảo vệ tài sản của người dùng. Mọi giao dịch và phần thưởng đều được công bố minh bạch, dữ liệu cập nhật theo thời gian thực."
+          ]
+        },
+        {
+          "title": "Điểm khác biệt của Bitruth.",
+          "items": [
+         "Hệ sinh thái đa dạng, dễ tiếp cận cho cả người mới và trader chuyên nghiệp",
+  "Thiết kế nền tảng thân thiện, dễ sử dụng",
+  "Cơ chế nhiệm vụ, phần thưởng và leaderboard giúp người dùng vừa học vừa giao dịch một cách hứng thú",
+  "Dịch vụ hỗ trợ bằng tiếng Việt, chăm sóc khách hàng 24/7",
+  "Cam kết tuân thủ quy định pháp lý, minh bạch và bảo mật",
+  "Với sứ mệnh xây dựng môi trường giao dịch công bằng và minh bạch, Bitruth mong muốn trở thành cộng đồng đáng tin cậy cho mọi nhà đầu tư tiền mã hoá — từ những người mới bắt đầu đến các trader giàu kinh nghiệm."   ]
+          },
+          {
+          "title": "Điểm khác biệt của Bitruth.",
+          "items": [
+         "Hệ sinh thái đa dạng, dễ tiếp cận cho cả người mới và trader chuyên nghiệp",
+  "Thiết kế nền tảng thân thiện, dễ sử dụng",
+  "Cơ chế nhiệm vụ, phần thưởng và leaderboard giúp người dùng vừa học vừa giao dịch một cách hứng thú",
+  "Dịch vụ hỗ trợ bằng tiếng Việt, chăm sóc khách hàng 24/7",
+  "Cam kết tuân thủ quy định pháp lý, minh bạch và bảo mật",
+  "Với sứ mệnh xây dựng môi trường giao dịch công bằng và minh bạch, Bitruth mong muốn trở thành cộng đồng đáng tin cậy cho mọi nhà đầu tư tiền mã hoá — từ những người mới bắt đầu đến các trader giàu kinh nghiệm."   ]
+          },
+          {
+          "title": "Dịch vụ và sản phẩm.",
+          "items": [
+         "Giao dịch giao ngay (Spot).",
+  "Giao dịch hợp đồng phái sinh (Futures).",
+  "Giao dịch P2P ( hiện tại đang phát triển, sẽ được cập nhật thêm trong tương lai)",
+  "Các chương trình Giới thiệu Bạn bè nhận hoa hồng, Game to Gain, Bảng xếp hạng hàng tuần, Cửa hàng đổi thưởng và nhiều sự kiện hấp dẫn. Mọi giao dịch và phần thưởng đều được công bố minh bạch, dữ liệu được cập nhật theo thời gian thực"    
+      ]
+    },
+    {
+          "title": "Hoạt động và bảo mật.",
+          "items": [
+         "Bitruth hoạt động 24/7, đảm bảo tính liên tục cho các giao dịch.",
+  "Áp dụng các tiêu chuẩn bảo mật nghiêm ngặt, quy trình KYC minh bạch, cam kết bảo vệ tối đa tài sản của người dùng",
+  "Hệ thống giám sát và kiểm soát rủi ro được triển khai đồng bộ."
+       ]
+    },
+    {
+          "title": " Điểm khác biệt",
+          "items": [
+         "Hệ sinh thái đa dạng, dễ tiếp cận cho cả người mới và trader chuyên nghiệp.",
+  "Giao diện nền tảng thân thiện, dễ sử dụng, tối ưu trải nghiệm người dùng,đặc biệt sàn đã được chuẩn hóa ngôn ngữ Tiếng Việt, dễ dàng cho người Việt sử dụng và giao dịch. ",
+  "Cơ chế nhiệm vụ, phần thưởng và Leaderboard khuyến khích người dùng vừa học vừa giao dịch.",
+  "Dịch vụ hỗ trợ bằng tiếng Việt, chăm sóc khách hàng 24/7.",
+  "Cam kết minh bạch, tuân thủ quy định pháp lý và đảm bảo tiêu chuẩn bảo mật cao."
+       ]
+    },
+    {
+          "title": "Sứ mệnh",
+          "items": [
+         "Với sứ mệnh xây dựng một môi trường giao dịch công bằng và minh bạch, Bitruth mong muốn trở thành cộng đồng đáng tin cậy cho tất cả nhà đầu tư tiền mã hoá — từ những người mới bắt đầu đến các trader giàu kinh nghiệm."
+       ]
+    },
+    {
+          "title": "Kênh hỗ trợ chính thức",
+          "items": [
+  "Chat trực tuyến: thông qua website https://bitruth.com/ Đội ngũ hỗ trợ luôn sẵn sàng giải đáp 24/7."
+          ]
+    }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"HƯỚNG DẪN QUẢN LÝ TÀI KHOẢN – BITRUTH",
+  "sections":[
+    {
+      "section":"cách thức KYC làm sao",
+      "subsections": [
+      {
+          "title": "Tạo tài khoản.",
+          "items": [
+          " Để tạo tài khoản Bitruth, người dùng truy cập trang web chính thức tại https://bitruth.com/ và nhấn nút Sign Up ở góc trên bên phải.",
+  "Nhập địa chỉ email và mật khẩu theo hướng dẫn. Hệ thống sẽ gửi liên kết xác minh đến email đã đăng ký.",
+  "Người dùng cần nhấp vào liên kết để kích hoạt tài khoản.",
+  
+  "Sau khi tài khoản được kích hoạt, người dùng có thể đăng nhập và sử dụng các dịch vụ. Việc hoàn tất xác minh danh tính (KYC) sẽ giúp tăng hạn mức nạp và rút tiền."   
+       ] 
+      },
+      
+      {
+          "title": "Khái niệm KYC.",
+          "items": [
+        " KYC (Know Your Customer) là quy trình xác minh danh tính khách hàng nhằm đảm bảo người dùng không tham gia các hoạt động bất hợp pháp như rửa tiền hoặc tài trợ khủng bố.",
+        "Quy trình này yêu cầu thu thập thông tin cá nhân như họ tên, ngày sinh, địa chỉ và giấy tờ tuỳ thân hợp lệ.  "    
+       ] 
+      },
+      {
+          "title": "Các giấy tờ chấp nhận KYC.",
+          "items": [
+        " CCCD/CMND,Hộ chiếu,Bằng lái xe",
+        "Mặt trước giấy tờ còn hiệu lực ",    
+        "Mặt sau giấy tờ còn hiệu lực (nếu có)",
+        "Ảnh selfie rõ mặt của chủ tài khoản"
+       ] 
+      },
+      {
+          "title": "Các bước thực hiện KYC",
+          "items": [
+        "Bước 1: Đăng nhập vào tài khoản Bitruth, vào menu Hồ sơ cá nhân, nhấn nút KYC trong mục Dashboard.",
+        "Bước 2: Nhập đầy đủ thông tin cá nhân theo hướng dẫn, đảm bảo trùng khớp với giấy tờ tuỳ thân.",    
+        "Bước 3: Tải lên ảnh chụp giấy tờ tuỳ thân hợp lệ.",
+        "Bước 4: Thực hiện xác minh khuôn mặt để xác nhận chủ tài khoản. Nếu thiết bị không có webcam, có thể sử dụng điện thoại."
+       ] 
+      },
+      {
+          "title": "Thời gian xét duyệt",
+          "items": [
+        "Thông thường KYC được xét duyệt trong vòng 24 giờ. Trong trường hợp khối lượng hồ sơ lớn, ",
+       " thời gian có thể kéo dài 2 đến 3 ngày làm việc. Người dùng có thể kiểm tra tiến độ xét duyệt trong mục Dashboard.",
+      "Khi KYC hoàn tất, hạn mức rút tiền sẽ được nâng cao, các dịch vụ khác cũng thuận tiện hơn.",
+      "Tài liệu hỗ trợ: Guide KYC"
+       ] 
+      },
+      {
+          "title": "Quản lý thông tin tài khoản",
+          "items": [
+        "Địa chỉ email đăng ký là ID duy nhất của người dùng, không thể tự thay đổi trực tiếp. Nếu cần thay đổi, người dùng phải liên hệ trung tâm khách hàng và thực hiện quy trình xác minh. ",
+       "Việc thay đổi số điện thoại đã đăng ký cũng cần thông qua trung tâm khách hàng. Hiện tại Bitruth chưa hỗ trợ người dùng tự thay đổi số điện thoại, nếu chính sách thay đổi sẽ được thông báo.",
+      "Tài khoản có thể bị tạm khoá nếu phát hiện đăng nhập sai nhiều lần hoặc có hoạt động bất thường. Trong trường hợp này, người dùng nên thay đổi mật khẩu và liên hệ bộ phận hỗ trợ để mở khoá."
+    
+       ] 
+      },
+      {
+          "title": " Khôi phục hoặc hủy tài khoản",
+          "items": [
+        "Nếu muốn hủy tài khoản, người dùng cần gửi yêu cầu tới trung tâm khách hàng và thực hiện xác minh danh tính theo quy định.",
+       "Trước khi hủy, nên rút toàn bộ số dư còn lại để tránh phát sinh sự cố.Sau khi hủy,",
+      "người dùng có thể không thể đăng ký lại bằng email cũ. Dữ liệu sẽ được lưu trữ và xoá theo quy định pháp luật."
+    
+       ] 
+      },
+      {
+          "title": "Quy định tài khoản và hạm vi dịch vụ",
+          "items": [
+        "Bitruth áp dụng nguyên tắc mỗi người chỉ được phép có một tài khoản. ",
+       "Việc tạo nhiều tài khoản sẽ vi phạm điều khoản sử dụng và có thể bị khoá hoặc hạn chế.",
+      "Sàn không cung cấp dịch vụ tại các quốc gia nằm trong danh sách bị hạn chế như Mỹ, Bắc Triều Tiên, Iran. Người dùng không được cố tình truy cập dịch vụ bằng cách lách quy định này."
+    
+       ] 
+      },
+      {
+          "title": "Quản lý mật khẩu",
+          "items": [
+        "Nếu quên mật khẩu, người dùng nhấn nút Forgot password/Quên mật khảu trên màn hình đăng nhập.",
+       "Nhập email đã đăng ký, hệ thống sẽ gửi liên kết đặt lại mật khẩu.",
+       "Liên kết chỉ có hiệu lực trong 24 giờ.",
+      "Sau khi thiết lập mật khẩu mới, người dùng có thể đăng nhập lại.",
+      "Khuyến nghị đặt mật khẩu mạnh, kết hợp chữ cái, số và ký tự đặc biệt.",
+      "Quy trình đặt lại mật khẩu có thể thực hiện bất cứ khi nào cần thiết."
+       ] 
+      }
+      ]
+      
+    },
+    {
+"section":"Xác thực hai bước (2FA/OTP)",
+"subsections":[
+   {
+          "title": "Kích hoạt 2FA",
+          "items": [
+        "Bitruth khuyến nghị người dùng luôn bật xác thực hai bước để tăng cường bảo mật.",
+        "Cài đặt ứng dụng tạo mã OTP (như Google Authenticator) trên điện thoại.",
+        "Vào mục Security/Bảo mật trong hồ sơ cá nhân, nhấn nút Enable/Kích hoạt tại phần Google Authenticator.",
+        "Quét mã QR hiển thị trên màn hình hoặc nhập mã thủ công.",
+        "Nhập mật khẩu tài khoản và mã OTP 6 số từ ứng dụng để hoàn tất.",
+        "Sau khi kích hoạt, hệ thống sẽ yêu cầu OTP mỗi khi đăng nhập hoặc rút tiền."
+       ] 
+      },
+       {
+          "title": "Lưu ý khi sử dụng 2FA",
+          "items": [
+        "Sau khi cài đặt, hệ thống sẽ cung cấp mã khôi phục (backup code). ",
+        "Người dùng cần lưu giữ mã này ở nơi an toàn để khôi phục trong trường hợp mất quyền truy cập."
+   
+       ] 
+      },
+      {
+          "title": "Xử lý các vấn đề liên quan đến 2FA",
+          "items": [
+        "Nếu nhập mã OTP không thành công, hãy kiểm tra cài đặt thời gian trên thiết bị di động. ",
+        "Điện thoại cần được đặt múi giờ tự động và đồng bộ chính xác.",
+        "Trường hợp mất điện thoại hoặc xoá ứng dụng Google Authenticator, ",
+        "người dùng cần liên hệ trung tâm chăm sóc khách hàng để được hỗ trợ khôi phục.",
+        " Quy trình khôi phục sẽ yêu cầu xác minh danh tính.",
+        "Trong thời gian khôi phục 2FA, một số chức năng tài khoản có thể tạm thời bị hạn chế để đảm bảo an toàn."
+       ] 
+      },{
+          "title": "Xử lý sự cố OTP",
+          "items": [
+        "Đảm bảo điện thoại được cài đặt múi giờ tự động và thời gian chính xác. ",
+        "Mã OTP đổi mỗi 30 giây, cần nhập nhanh mã còn hiệu lực.",
+        "Nếu nhập sai nhiều lần, tài khoản có thể bị giới hạn đăng nhập tạ"
+       ] 
+      },
+      {
+          "title": "Cách thiết lập 2FA",
+          "items": [
+    "  1.Cài đặt ứng dụng tạo mã OTP như Google Authenticator trên điện thoại thông minh (có thể tải miễn phí từ App Store hoặc CH Play).",
+"2. Truy cập vào mục Security trong menu hồ sơ cá nhân và nhấn nút ‘Enable’ ở phần Google Authenticator.",
+"3. Quét mã QR hiển thị trên màn hình bằng ứng dụng OTP, hoặc nhập mã thủ công để thêm tài khoản.",
+"4. Nhập mật khẩu đăng nhập và mã OTP gồm 6 chữ số được tạo ra (mỗi 30 giây đổi mã một lần), sau đó nhấn Xác nhận.",
+
+"Sau khi hoàn tất, xác thực hai bước sẽ được kích hoạt.",
+"Từ thời điểm đó, bạn sẽ cần nhập mã OTP mỗi khi đăng nhập hoặc thực hiện rút tiền, giúp bảo vệ tài khoản tốt hơn.",
+
+"Lưu ý: Sau khi thiết lập, bạn sẽ được cung cấp mã khôi phục (backup code) — vui lòng lưu giữ cẩn thận ở nơi an toàn phòng trường hợp mất quyền truy cập OTP."
+
+       ] 
+      }
+]
+    }
+    
+    
+  ]
+  
+},
+{
+ "big_title":"xác minh đúng danh tính BẢO MẬT",
+  "sections":[
+    {
+      "section":"xác minh đúng danh tính BẢO MẬT hướng dẫn",
+      "subsections": [
+      {
+          "title": "Cam kết bảo mật tài khoản và tài sản.",
+          "items": [
+          " Bitruth luôn đặt an toàn tài sản và thông tin của người dùng lên hàng đầu",
+  "Hệ thống áp dụng các lớp bảo mật nhiều tầng, kết hợp tiêu chuẩn mã hoá dữ liệu và quy trình giám sát 24/7 nhằm phát hiện các giao dịch hoặc đăng nhập bất thường.",
+  "Phần lớn tài sản số được lưu trữ trong ví lạnh (Cold Wallet) nhằm giảm thiểu rủi ro bị tấn công.",
+  
+  "Mọi lệnh rút tiền đều yêu cầu xác minh qua email, mã OTP, và có thể kích hoạt danh sách whitelist địa chỉ ví để hạn chế rút sai địa chỉ.",
+  "Bitruth có quỹ bảo hiểm và quy trình phản ứng khẩn cấp sẵn sàng triển khai khi phát sinh rủi ro bất thường.",
+  "Chính sách bảo mật dữ liệu cá nhân tuân thủ quy định pháp luật, thông tin người dùng được mã hoá và chỉ sử dụng cho mục đích xác minh.",
+  "Người dùng cũng cần chủ động bảo vệ tài khoản bằng cách cảnh giác với các website giả mạo (phishing) và không chia sẻ thông tin đăng nhập."
+       ] 
+      },
+      {
+          "title": "Tính năng Anti-Phishing Code",
+          "items": [
+          "Để giúp phát hiện email giả mạo, Bitruth hỗ trợ người dùng cài đặt Anti-Phishing Code",
+  "Khi thiết lập mã cá nhân trong mục bảo mật, mọi email chính thức từ Bitruth sẽ hiển thị mã này.",
+  "Nếu nhận được email không chứa mã Anti-Phishing, bạn cần cảnh giác — tuyệt đối không bấm liên kết hay mở file đính kèm — và xóa ngay lập tức.",
+  
+  "Đây là bước bảo vệ đơn giản nhưng rất hiệu quả để hạn chế nguy cơ lừa đảo."
+ 
+       ] 
+      },
+      {
+          "title": "Vai trò của 2FA",
+          "items": [
+          "Xác thực hai bước (2FA) là lớp bảo mật bổ sung giúp người dùng giảm thiểu rủi ro bị truy cập trái phép.",
+      "Khi bật 2FA, người dùng phải nhập mã OTP mỗi lần đăng nhập hoặc rút tiền.",
+              "Bitruth khuyến nghị tất cả người dùng kích hoạt 2FA ngay sau khi đăng ký tài khoản.",
+      "Tải ứng dụng Google Authenticator. Người dùng có thể tải miễn phí từ App Store (iOS) hoặc CH Play (Android).",
+      "Truy cập mục Security trong Hồ sơ cá nhân, chọn bật tính năng Google Authenticator.",
+      "Quét mã QR hoặc nhập mã thủ công để liên kết tài khoản.",
+      "Nhập mật khẩu đăng nhập và mã OTP 6 số hiển thị trên ứng dụng Google Authenticator. Mã OTP sẽ đổi mới mỗi 30 giây."
+ 
+       ] 
+      },
+      {
+          "title": "Nhận và lưu mã khôi phục",
+          "items": [
+            "Hệ thống sẽ cấp mã khôi phục (backup code) sau khi thiết lập. Người dùng cần lưu giữ cẩn thận để khôi phục 2FA trong trường hợp mất thiết bị.",
+            "Sau khi hoàn tất, mỗi lần đăng nhập hoặc rút tiền, người dùng phải nhập mã OTP từ Google Authenticator." 
+       ] 
+      },
+      {
+          "title": "Chính sách độ tuổi.",
+          "items": [
+             "Bitruth chỉ dành cho người dùng từ 18 tuổi trở lên:",
+      "Người chưa đủ tuổi thành niên không thể mở tài khoản hoặc giao dịch.",
+      "Độ tuổi sẽ được xác minh trong quá trình KYC.",
+         "Việc đăng ký bằng thông tin của người khác (như cha mẹ hoặc người giám hộ) là hành vi vi phạm điều khoản dịch vụ.",
+      "Nếu nhập sai ngày sinh, bạn nên liên hệ bộ phận hỗ trợ khách hàng để được hướng dẫn chỉnh sửa."
+
+      ] 
+      },
+       {
+          "title": "Quy định pháp lý và tuân thủ",
+          "items": [
+            "Bitruth cam kết tuân thủ các quy định pháp luật tại nhiều quốc gia và chuẩn mực quốc tế",
+            "Áp dụng đầy đủ chính sách AML (chống rửa tiền) và KYC (xác minh danh tính)." ,
+            "Bitruth đã đăng ký và hoạt động hợp pháp tại một số khu vực như EU, đồng thời tuân thủ quy định bảo mật thông tin người dùng ở các thị trường đặc thù như Hàn Quốc.",
+            "Do chưa được cấp giấy phép nội địa tại Hàn Quốc (ví dụ: chứng nhận ISMS), Bitruth hiện không cung cấp thị trường giao dịch KRW (Won).",
+"Dù vậy, Bitruth vẫn duy trì các tiêu chuẩn bảo mật và minh bạch toàn cầu, đồng thời chủ động thích ứng với mọi thay đổi pháp lý để mang đến môi trường giao dịch ổn định, minh bạch và an toàn cho tất cả người dùng."
+       ] 
+      },
+      {
+          "title": "Quy định xử lý gian lận",
+          "items": [
+           "Bitruth nghiêm cấm mọi hành vi gian lận, lạm dụng hoặc sử dụng nhiều tài khoản để trục lợi.",
+"Nếu phát hiện vi phạm, Bitruth có quyền:",
+"Từ chối hoặc thu hồi quyền nhận thưởng.",
+"Khóa tài khoản liên quan.",
+"Thu hồi các lợi ích, ưu đãi hoặc số dư bị gian lận.",
+"Để đảm bảo quyền lợi và tính minh bạch, người dùng cần thực hiện đầy đủ các bước xác minh như KYC, OTP, bảo mật hai lớp (2FA) và tuân thủ nghiêm túc điều khoản sử dụng.",
+"Bitruth cam kết duy trì một môi trường giao dịch an toàn, công bằng và minh bạch cho tất cả người dùng."
+    ] 
+      },
+       {
+          "title": " Khuyến nghị bảo mật chung",
+          "items": [
+           "Thay đổi mật khẩu định kỳ, không dùng chung mật khẩu với các dịch vụ khác.",
+"Luôn kích hoạt 2FA/OTP.",
+"Cảnh giác với email và trang web giả mạo, chỉ truy cập Bitruth qua đường link chính thức.",
+"Không chia sẻ thông tin đăng nhập hoặc mã OTP cho bất kỳ ai.",
+"Tuân thủ các bước bảo mật giúp hạn chế rủi ro mất tài sản và đảm bảo an toàn tài khoản."
+    ] 
+      },
+      {
+          "title": "Xác minh danh tính không thành công",
+          "items": [
+           "Trường hợp  bị từ chối KYC, bạn vui lòng kiểm tra lại giấy tờ đã hợp lệ hay chưa nhé",
+"Có thể do hình ảnh giấy tờ bị mờ, sai thông tin hoặc hình ảnh đã qua chỉnh sửa. Bạn hãy kiểm tra lại và gửi lại hình ảnh hợp lệ theo hướng dẫn nhé"
+    ] 
+      }
+    ]
+}
+]
+},
+{
+  "big_title":"QUY TRÌNH NẠP - RÚT BITRUTH",
+  "sections":[
+    {
+      "section":"QUY TRÌNH NẠP TIỀN",
+      "subsections":[
+         {
+          "title": "Hướng dẫn nạp tiền.",
+          "items": [
+           "Đăng nhập tài khoản Bitruth, truy cập mục Ví (Wallet) ở góc trên bên phải, chọn Overview",
+           "Nhấn nút Deposit bên cạnh loại tiền điện tử cần nạp (ví dụ: BTC, ETH).",
+           "Xác nhận địa chỉ ví được cấp riêng và chọn đúng mạng lưới (chain). Một số đồng tiền có thể yêu cầu nhập memo hoặc tag, cần sao chép đầy đủ thông tin này.",
+           "Thực hiện chuyển tiền từ ví cá nhân hoặc sàn giao dịch khác đến đúng địa chỉ đã cấp, kèm memo/tag nếu có.",
+           "Sau khi giao dịch được xác nhận trên blockchain, số tiền sẽ tự động ghi nhận vào tài khoản Bitruth."
+       ] 
+      },
+      {
+          "title": "Hướng dẫn nạp tiền.",
+          "items": [
+           "Đăng nhập tài khoản Bitruth, truy cập mục Ví (Wallet) ở góc trên bên phải, chọn Overview",
+           "Nhấn nút Deposit bên cạnh loại tiền điện tử cần nạp (ví dụ: BTC, ETH).",
+           "Xác nhận địa chỉ ví được cấp riêng và chọn đúng mạng lưới (chain). Một số đồng tiền có thể yêu cầu nhập memo hoặc tag, cần sao chép đầy đủ thông tin này.",
+           "Thực hiện chuyển tiền từ ví cá nhân hoặc sàn giao dịch khác đến đúng địa chỉ đã cấp, kèm memo/tag nếu có.",
+           "Sau khi giao dịch được xác nhận trên blockchain, số tiền sẽ tự động ghi nhận vào tài khoản Bitruth."
+       ] 
+      },
+      {
+    "title": "Phí nạp tiền",
+    "items": [
+      "Hiện tại Bitruth không thu phí khi người dùng thực hiện nạp tiền vào tài khoản gắn với sàn. Người dùng chỉ cần thanh toán phí mạng lưới blockchain cho bên ví gửi.",
+      "Số tiền nhận được sẽ được ghi nhận đầy đủ, không bị khấu trừ thêm."
+    ]
+  },
+  {
+    "title": "Hạn mức nạp tiền",
+    "items": [
+      "Bitruth không giới hạn số tiền nạp tối thiểu.",
+      "Người dùng có thể nạp tiền bất kỳ lúc nào theo nhu cầu."
+    ]
+  },
+  {
+    "title": "Lưu ý khi nạp tiền",
+    "items": [
+      "Luôn kiểm tra kỹ địa chỉ ví, mạng lưới (ví dụ: ERC20, BEP20) trước khi chuyển tiền.",
+      "Mỗi loại tiền điện tử có địa chỉ riêng, thông thường có thể sử dụng lâu dài. Trong trường hợp nâng cấp ví hoặc thay đổi mạng lưới, địa chỉ có thể thay đổi.",
+      "Trường hợp quên nhập memo/tag khi nạp các loại tiền như XRP, XLM, hệ thống sẽ không tự động khớp lệnh nạp. Người dùng cần liên hệ bộ phận chăm sóc khách hàng và cung cấp đầy đủ thông tin để được hỗ trợ xử lý thủ công.",
+      "Nếu gửi nhầm địa chỉ hoặc gửi loại tiền không được hỗ trợ, khả năng khôi phục rất hạn chế. Người dùng phải tự liên hệ đơn vị quản lý địa chỉ nếu thuộc sàn khác. Bitruth không đảm bảo khả năng khôi phục thành công trong những trường hợp này."
+    ]
+  },
+  {
+    "title": "Các trường hợp đặc biệt",
+    "items": [
+      "Khi mạng lưới blockchain quá tải hoặc ví của sàn bảo trì, thời gian nạp có thể chậm hơn bình thường. Bitruth sẽ thông báo trước qua mục Thông báo chính thức.",
+      "Người dùng có thể kiểm tra lịch sử nạp tiền trong mục Transaction History để tra cứu trạng thái xác nhận và mã TXID."
+    ]
+  },
+  {
+    "title": "Nạp tiền bằng tiền pháp định",
+    "items": [
+      "Hiện tại, Bitruth chỉ hỗ trợ nạp tiền bằng tiền điện tử.",
+      "Người dùng không thể nạp trực tiếp bằng tiền pháp định như KRW, USD.",
+      "Trong tương lai, nếu triển khai tính năng nạp/rút tiền pháp định, Bitruth sẽ thông báo chính thức."
+    ]
+  },
+ 
+  {
+    "title": "1. Hướng dẫn rút tiền",
+    "items": [
+      "Đăng nhập tài khoản, vào mục Ví (Wallet) ở góc trên bên phải, chọn Overview.",
+      "Tìm loại tiền cần rút, nhấn Withdrawal.",
+      "Chọn mạng lưới phù hợp, nhập chính xác địa chỉ ví nhận. Khuyến nghị sao chép và dán địa chỉ để tránh sai sót.",
+      "Nhập số lượng muốn rút, kiểm tra hạn mức tối thiểu và phí rút hiển thị.",
+      "Nhập mã xác thực OTP hoặc 2FA (nếu đã bật), xác nhận rút tiền qua email.",
+      "Yêu cầu rút sẽ được hệ thống xử lý và gửi lên mạng lưới blockchain."
+    ]
+  },
+  {
+    "title": "2. Phí rút tiền",
+    "items": [
+      "Mức phí được quy định cố định theo từng loại tiền điện tử và mạng lưới.",
+      "Phí rút sẽ hiển thị rõ tại trang rút tiền.",
+      "Phí được trừ trực tiếp từ số tiền rút."
+    ]
+  },
+  {
+    "title": "3. Hạn mức rút tiền",
+    "items": [
+      "Mỗi lần rút áp dụng hạn mức tối thiểu riêng tùy loại tiền.",
+      "Tài khoản chưa hoàn tất KYC sẽ có hạn mức rút tối đa thấp hơn tài khoản đã KYC.",
+      "Nếu cần rút số lượng lớn, người dùng cần nâng cấp xác minh bổ sung để tăng hạn mức."
+    ]
+  },
+  {
+    "title": "4. Thời gian xử lý rút tiền",
+    "items": [
+      "Yêu cầu rút tiền thường được kiểm tra nội bộ trong vài phút và xử lý trung bình từ 5 đến 10 phút.",
+      "Mã TXID sẽ hiển thị trong lịch sử rút để người dùng theo dõi tiến trình giao dịch trên blockchain.",
+      "Trong thời gian cao điểm hoặc khi cần xác minh bổ sung, thời gian xử lý có thể lâu hơn."
+    ]
+  },
+  {
+    "title": "5. Lưu ý bảo mật khi rút tiền",
+    "items": [
+      "Nếu người dùng thay đổi mật khẩu hoặc tắt 2FA, hệ thống sẽ tạm khóa rút tiền trong 24 giờ để đảm bảo an toàn.",
+      "Tính năng Whitelist địa chỉ rút tiền được khuyến nghị kích hoạt để chỉ cho phép rút tiền đến các địa chỉ đã xác minh trước. Khi whitelist được bật, việc thêm địa chỉ mới sẽ yêu cầu xác minh bổ sung.",
+      "Gửi nhầm địa chỉ ví hoặc nhập sai số tiền sẽ không thể hoàn tác khi giao dịch đã được gửi lên blockchain. Bitruth hoặc bất kỳ bên thứ ba nào cũng không thể can thiệp."
+    ]
+  },
+  {
+    "title": "Lưu ý chung",
+    "items": [
+      "Luôn kiểm tra kỹ địa chỉ ví, mạng lưới, số lượng coin và phí trước khi thực hiện giao dịch.",
+      "Kích hoạt đầy đủ các biện pháp bảo mật như 2FA, OTP, Whitelist địa chỉ.",
+      "Theo dõi lịch sử nạp/rút thường xuyên, lưu mã TXID để tra cứu tiến trình khi cần.",
+      "Đọc kỹ thông báo bảo trì hoặc tạm ngưng nạp/rút trước khi thực hiện."
+    ]
+  }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"GIAO DỊCH HỢP ĐỒNG TƯƠNG LAI (FUTURES) – BITRUTH",
+  "sections":[
+    {
+      "section":"FUTURES",
+      "subsections":[
+          {
+    "title": "Giao dịch Futures là gì?",
+    "items": [
+      "Hợp đồng tương lai (Futures) là một công cụ phái sinh cho phép nhà giao dịch mua hoặc bán một tài sản cơ sở (ví dụ như Bitcoin, Ethereum hoặc các đồng tiền mã hoá khác) với mức giá đã định trước, tại một thời điểm nhất định trong tương lai.",
+      "Trên thực tế, đa số sàn giao dịch tiền mã hoá hiện nay triển khai hợp đồng tương lai vĩnh cửu (Perpetual Futures). Đây là dạng hợp đồng không có ngày đáo hạn cố định, cho phép người dùng giữ vị thế bao lâu tùy ý, miễn là tài khoản vẫn đáp ứng yêu cầu ký quỹ duy trì."
+    ]
+  },
+  {
+    "title": "Lệnh giới hạn (Limit Order)",
+    "items": [
+      "Cho phép đặt lệnh mua hoặc bán tại một mức giá cụ thể mà bạn mong muốn. Lệnh này chỉ được khớp khi giá thị trường đạt đến mức giá đã đặt.",
+      "Lệnh giới hạn giúp người dùng kiểm soát mức giá giao dịch nhưng không đảm bảo khớp lệnh ngay lập tức."
+    ]
+  },
+  {
+    "title": "Lệnh thị trường (Market Order)",
+    "items": [
+      "Là lệnh được thực hiện ngay lập tức với mức giá tốt nhất hiện có trên thị trường.",
+      "Lệnh thị trường thường được sử dụng khi bạn ưu tiên tốc độ khớp lệnh thay vì mức giá chính xác, tuy nhiên có thể xảy ra trượt giá khi thị trường biến động mạnh."
+    ]
+  },
+  {
+    "title": "Lệnh dừng (Stop Order)",
+    "items": [
+      "Là lệnh điều kiện, chỉ được kích hoạt khi giá thị trường chạm đến mức giá đã đặt trước.",
+      "Khi đạt giá dừng, hệ thống sẽ tự động đặt lệnh thị trường hoặc lệnh giới hạn đã được cài sẵn.",
+      "Lệnh này thường được sử dụng để chốt lãi hoặc cắt lỗ tự động."
+    ]
+  },
+  {
+    "title": "Các lệnh nâng cao khác",
+    "items": [
+      "Các lệnh như Trailing Stop cho phép điều chỉnh tự động mức giá cắt lỗ theo diễn biến thị trường, giúp tối ưu hoá lợi nhuận và quản lý rủi ro linh hoạt."
+    ]
+  },
+  {
+    "title": "Vị thế Long",
+    "items": [
+      "Được sử dụng khi nhà giao dịch kỳ vọng giá tài sản sẽ tăng.",
+      "Bạn mua vào ở mức giá hiện tại và bán ra khi giá cao hơn để hưởng chênh lệch."
+    ]
+  },
+  {
+    "title": "Vị thế Short",
+    "items": [
+      "Được sử dụng khi dự đoán giá tài sản sẽ giảm.",
+      "Nhà giao dịch bán khống trước, sau đó mua lại ở mức giá thấp hơn để thu lợi nhuận.",
+      "Khác với giao dịch giao ngay, Futures cho phép kiếm lợi nhuận ngay cả khi thị trường giảm giá."
+    ]
+  },
+  {
+    "title": "Đòn bẩy (Leverage)",
+    "items": [
+      "Bitruth hỗ trợ người dùng điều chỉnh mức đòn bẩy tuỳ theo nhu cầu, có thể lên đến 1000 lần.",
+      "Đòn bẩy giúp bạn mở vị thế có giá trị lớn hơn nhiều lần so với số tiền ký quỹ thực tế. Ví dụ, với đòn bẩy 10 lần, bạn có thể dùng 100 USD để kiểm soát vị thế trị giá 1.000 USD.",
+      "Đòn bẩy được điều chỉnh trực tiếp trong cửa sổ đặt lệnh hoặc tại tab vị thế. Người dùng cần lưu ý rằng đòn bẩy càng cao, lợi nhuận tiềm năng càng lớn nhưng rủi ro bị thanh lý cũng tăng lên."
+    ]
+  },
+  {
+    "title": "Chế độ ký quỹ (Margin Mode)",
+    "items": [
+      "Ký quỹ chéo (Cross Margin): Toàn bộ số dư khả dụng trong tài khoản sẽ được sử dụng để duy trì vị thế. Nếu một vị thế lỗ, hệ thống sẽ tự động sử dụng toàn bộ tài sản còn lại để tránh bị thanh lý. Ngược lại, lợi nhuận từ vị thế có lãi cũng có thể bù cho vị thế đang lỗ.",
+      "Ký quỹ độc lập (Isolated Margin): Mỗi vị thế sử dụng một mức ký quỹ riêng. Nếu vị thế bị lỗ vượt quá số tiền đã ký quỹ, hệ thống sẽ tự động thanh lý vị thế mà không ảnh hưởng đến phần tài sản còn lại. Người dùng có thể bổ sung thêm ký quỹ để điều chỉnh giá thanh lý."
+    ]
+  },
+  {
+    "title": "Thanh lý bắt buộc (Force Liquidation)",
+    "items": [
+      "Thanh lý bắt buộc xảy ra khi mức ký quỹ duy trì không đủ để giữ vị thế. Khi giá thị trường biến động bất lợi, chạm đến mức giá thanh lý, hệ thống sẽ tự động đóng vị thế để hạn chế tổn thất lớn hơn.",
+      "Sau khi thanh lý, một phần tiền ký quỹ sẽ được dùng để bù lỗ. Nếu còn dư sau khi trừ các khoản phí, phần còn lại sẽ được hoàn về tài khoản.",
+      "Nhà giao dịch nên chủ động quản lý rủi ro bằng cách đặt lệnh cắt lỗ, bổ sung ký quỹ hoặc điều chỉnh đòn bẩy để tránh tình trạng bị thanh lý."
+    ]
+  },
+  {
+    "title": "Cắt lỗ (Stop Loss) và chốt lời (Take Profit)",
+    "items": [
+      "Bitruth cho phép người dùng cài đặt mức giá cắt lỗ và chốt lời sau khi mở vị thế.",
+      "Khi giá thị trường đạt mức giá đã cài đặt, hệ thống sẽ tự động thực hiện lệnh đóng vị thế toàn phần hoặc một phần.",
+      "Việc đặt sẵn các mức giá giúp nhà giao dịch không cần theo dõi thị trường liên tục mà vẫn quản lý rủi ro và lợi nhuận hiệu quả."
+    ]
+  },
+  {
+    "title": "Hủy lệnh và đóng vị thế",
+    "items": [
+      "Hủy lệnh: Người dùng có thể hủy các lệnh đang chờ khớp bất cứ lúc nào trước khi khớp hoàn toàn. Lệnh thị trường thường khớp ngay, nên không thể hủy.",
+      "Đóng vị thế: Vị thế có thể được đóng bằng cách nhấn nút “Đóng vị thế” trong tab Vị thế hoặc đặt lệnh ngược chiều với khối lượng tương ứng. Người dùng cũng có thể đóng một phần vị thế bằng cách đặt lệnh ngược chiều với khối lượng nhỏ hơn."
+    ]
+  },
+  {
+    "title": "Lãi/Lỗ (PnL) và cách tính",
+    "items": [
+      "Lãi/lỗ được hiển thị theo thời gian thực trong suốt quá trình giữ vị thế. Khi đóng vị thế, lãi/lỗ được xác nhận và phản ánh vào số dư tài khoản.",
+      "Công thức cơ bản: Lợi nhuận hoặc thua lỗ = (Giá đóng – Giá vào lệnh) x Khối lượng vị thế",
+      "Đòn bẩy không thay đổi số tiền lãi/lỗ thực tế nhưng làm tỷ suất lợi nhuận tăng cao hơn vì số tiền ký quỹ nhỏ. ROE (Return on Equity) thể hiện tỷ lệ lãi/lỗ so với số tiền ký quỹ."
+    ]
+  }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"HƯỚNG DẪN TỔNG QUAN GIAO DỊCH SPOT – BITRUTH",
+  "sections":[
+    {
+       "section":"SPOT",
+      "subsections":[
+        {
+    "title": "Khái niệm giao dịch Spot",
+    "items": [
+      "Giao dịch Spot là hình thức mua bán tài sản kỹ thuật số với giá thị trường tại thời điểm giao dịch.",
+      "Khi lệnh được khớp, tài sản được cộng ngay vào số dư ví Spot Wallet của người dùng để giữ, bán hoặc rút về ví bên ngoài.",
+      "Giao dịch Spot không sử dụng đòn bẩy nên rủi ro thua lỗ chỉ giới hạn trong số vốn thực tế."
+    ]
+  },
+  {
+    "title": "Đặc điểm giao dịch Spot",
+    "items": [
+      "Giá giao dịch được khớp theo sổ lệnh mở, có thể thay đổi theo biến động thị trường.",
+      "Tài sản được sở hữu thực và có thể rút ra bất kỳ lúc nào.",
+      "Giao dịch Spot phù hợp với cả người mới và trader chuyên nghiệp vì tính minh bạch và dễ quản lý."
+    ]
+  },
+  {
+    "title": "Các loại lệnh cơ bản",
+    "items": [
+      "Lệnh Giới hạn (Limit Order): Lệnh được đặt để mua hoặc bán tại mức giá cụ thể mong muốn. Lệnh sẽ chỉ khớp khi giá thị trường chạm đến mức giá đó.",
+      "Lệnh Thị trường (Market Order): Lệnh được khớp ngay lập tức với giá tốt nhất hiện tại trên sổ lệnh. Phù hợp khi người dùng cần khớp lệnh nhanh, tuy nhiên có thể xảy ra chênh lệch giá so với kỳ vọng trong điều kiện thị trường biến động mạnh.",
+      "Lệnh Stop-Limit: Là lệnh điều kiện. Khi giá thị trường đạt đến mức giá dừng đã đặt, lệnh sẽ tự động chuyển thành lệnh giới hạn. Lệnh này thường được dùng để cắt lỗ hoặc mua/bán theo xu hướng thị trường."
+    ]
+  },
+  {
+    "title": "Cách đặt lệnh và quản lý lệnh",
+    "items": [
+      "Người dùng truy cập giao diện Spot, chọn cặp giao dịch, nhập mức giá và khối lượng, kiểm tra phí hiển thị trước khi xác nhận.",
+      "Lịch sử đặt lệnh, lệnh chờ khớp và lệnh đã khớp đều hiển thị minh bạch trong mục Lịch sử Lệnh.",
+      "Các lệnh chưa khớp hoàn toàn có thể bị hủy bất cứ lúc nào, tuy nhiên phần lệnh đã khớp sẽ không thể hủy.",
+      "Trong trường hợp lệnh khớp một phần do sổ lệnh không đủ khối lượng, phần còn lại sẽ tiếp tục chờ khớp hoặc người dùng có thể hủy phần còn lại nếu không còn nhu cầu."
+    ]
+  },
+  {
+    "title": "Các lưu ý khi giao dịch Spot",
+    "items": [
+      "Giao dịch Spot vẫn có thể xảy ra trượt giá, đặc biệt khi dùng lệnh thị trường với khối lượng lớn hoặc khi thanh khoản thấp.",
+      "Nhà giao dịch nên kiểm tra giới hạn số lượng tối thiểu và tối đa cho mỗi cặp giao dịch để tránh lỗi đặt lệnh.",
+      "Nếu muốn khớp nhanh nhưng tránh trượt giá lớn, nên chia khối lượng lệnh lớn thành nhiều lệnh giới hạn nhỏ.",
+      "Khi giá thị trường biến động mạnh, nên cân nhắc sử dụng lệnh giới hạn thay vì lệnh thị trường."
+    ]
+  },
+  {
+    "title": "Một số tình huống thường gặp",
+    "items": [
+      "Lệnh không được khớp: Do giá đặt lệch nhiều so với giá thị trường hoặc thanh khoản thấp. Người dùng cần kiểm tra sổ lệnh và trạng thái khớp.",
+      "Muốn hủy lệnh đã khớp: Không thể hủy phần đã khớp, chỉ phần lệnh chưa khớp được phép hủy.",
+      "Lệnh khớp ở giá khác dự kiến: Đây là trượt giá, có thể xảy ra khi dùng lệnh thị trường trong điều kiện thị trường biến động.",
+      "Lệnh khớp một phần: Do khối lượng lệnh hiện có trên sổ lệnh không đủ khớp toàn bộ, phần còn lại tiếp tục chờ khớp hoặc có thể hủy.",
+      "Kiểm tra khối lượng đặt hàng hiển thị không đúng: Người dùng cần kiểm tra các giới hạn số lượng và liên hệ CS nếu cần hỗ trợ."
+    ]
+  },
+  {
+    "title": "Kiểm tra và tra soát giao dịch",
+    "items": [
+      "Toàn bộ lịch sử lệnh Spot được lưu trong hệ thống và có thể kiểm tra tại mục Lịch sử Lệnh.",
+      "Người dùng có thể đối chiếu thông tin khớp lệnh với dữ liệu thị trường để tra soát.",
+      "Khi cần hỗ trợ tra soát, nên chuẩn bị thông tin cặp giao dịch, thời gian đặt lệnh và mã số lệnh để đội ngũ CS hỗ trợ nhanh chóng."
+    ]
+  },
+  {
+    "title": "Một số khuyến nghị an toàn",
+    "items": [
+      "Luôn kiểm tra giá đặt, khối lượng và phí trước khi gửi lệnh.",
+      "Tránh sử dụng lệnh thị trường cho khối lượng quá lớn khi thanh khoản thấp.",
+      "Thường xuyên kiểm tra biến động thị trường để điều chỉnh chiến lược đặt lệnh phù hợp.",
+      "Lưu lại mã lệnh (Order ID) để dễ tra cứu khi cần."
+    ]
+  }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"HƯỚNG DẪN PHÍ GIAO DỊCH, HẠN MỨC VÀ QUY ĐỊNH KHỐI LƯỢNG TỐI THIỂU.",
+  "sections":[
+    {
+       "section":"HƯỚNG DẪN PHÍ GIAO DỊCH, HẠN MỨC",
+      "subsections":[
+          {
+    "title": "Phí giao dịch",
+    "items": [
+      "Phí Maker: Là mức phí áp dụng cho các lệnh tạo ra thanh khoản mới cho thị trường, thường là lệnh giới hạn (limit order). Ví dụ: mức phí Maker tiêu chuẩn là 0.02%.",
+      "Phí Taker: Là mức phí áp dụng cho các lệnh khớp ngay với thanh khoản hiện có, như lệnh thị trường (market order). Ví dụ: phí Taker tiêu chuẩn là 0.06%.",
+      "Phí giao dịch được tính riêng khi mở và khi đóng vị thế.",
+      "Công thức tính phí: Giá trị hợp đồng × Tỷ lệ phí (Maker hoặc Taker).",
+      "Người dùng nên kiểm tra trước khi đặt lệnh để nắm rõ phí áp dụng cho từng loại lệnh."
+    ]
+  },
+  {
+    "title": "Ưu đãi giảm phí và hệ thống VIP",
+    "items": [
+      "Bitruth áp dụng hệ thống xếp hạng VIP dựa trên khối lượng giao dịch 30 ngày gần nhất.",
+      "Khi khối lượng giao dịch của người dùng đạt đủ điều kiện, cấp độ VIP sẽ được tự động nâng hạng mỗi ngày.",
+      "Ví dụ: VIP cấp 1 có thể hưởng mức phí Maker 0.015% và Taker 0.05% (mức phí mang tính minh hoạ).",
+      "Khi đạt VIP, người dùng có thể nhận thêm quyền lợi khác như ưu đãi rút tiền, hạn mức cao hơn hoặc hỗ trợ chuyên trách.",
+      "Người dùng có thể kiểm tra cấp VIP hiện tại và điều kiện nâng hạng tại mục Trang cá nhân (My Page)."
+    ]
+  },
+  {
+    "title": "Sự kiện ưu đãi và mã khuyến mãi",
+    "items": [
+      "Tài khoản mới có thể nhận ưu đãi giảm 10% phí giao dịch trong tháng đầu tiên.",
+      "Các cuộc thi giao dịch có thể hoàn phí hoặc cashback.",
+      "Người dùng đăng ký qua mã giới thiệu sẽ nhận ưu đãi giảm phí, cả người giới thiệu và người được giới thiệu đều hưởng lợi.",
+      "Nếu có mã khuyến mãi (promotion code), người dùng có thể nhập trực tiếp trong phần cài đặt tài khoản để kích hoạt ưu đãi.",
+      "Các sự kiện sẽ được thông báo qua trang sự kiện hoặc bản tin email chính thức. Người dùng nên theo dõi để không bỏ lỡ quyền lợi."
+    ]
+  },
+  {
+    "title": "Hạn mức nạp và rút tiền",
+    "items": [
+      "Nạp tiền: Bitruth không giới hạn số tiền nạp bằng tiền mã hóa. Người dùng có thể nạp tuỳ ý.",
+      "Rút tiền: Tài khoản chưa KYC: hạn mức rút tối đa tương đương 2 BTC mỗi ngày.",
+      "Rút tiền: Tài khoản đã KYC: hạn mức có thể nâng lên đến 100 BTC mỗi ngày (số liệu tham khảo, có thể thay đổi theo chính sách).",
+      "Hạn mức rút sẽ tự động làm mới sau mỗi 24 giờ.",
+      "Nếu muốn rút số tiền lớn hơn hạn mức, người dùng cần hoàn tất KYC hoặc chia nhỏ giao dịch trong nhiều ngày."
+    ]
+  },
+  {
+    "title": "Quy định khối lượng tối thiểu khi đặt lệnh",
+    "items": [
+      "Mỗi sản phẩm tiền mã hóa đều có quy định khối lượng tối thiểu để đảm bảo khớp lệnh hiệu quả.",
+      "Ví dụ: Hợp đồng tương lai Bitcoin yêu cầu tối thiểu 0.001 BTC.",
+      "Ví dụ: Hợp đồng tương lai Ethereum yêu cầu tối thiểu 0.01 ETH.",
+      "Nếu khối lượng đặt lệnh quá nhỏ, lệnh sẽ không được chấp nhận.",
+      "Quy định khối lượng tối thiểu được hiển thị rõ trên màn hình đặt lệnh cho từng sản phẩm. Người dùng cần kiểm tra kỹ trước khi xác nhận giao dịch."
+    ]
+  }
+    ]
+    }
+  ]
+},
+{
+  "big_title":"Chương trình giới thiệu của sàn giao dịch Bitruth",
+  "sections":[
+    {
+      "section":"Tiêu chí đánh giá và thông tin về lệ phí",
+      "subsections":[
+          {
+    "title": "Đánh giá cấp độ",
+    "items": [
+      "Vào cuối mỗi tháng, cấp độ giới thiệu cho tháng tiếp theo sẽ được đánh giá dựa trên hai tiêu chí sau.",
+      "Số lượng người được giới thiệu hoạt động: là số lượng người được bạn giới thiệu trực tiếp đã thực hiện ít nhất 1 giao dịch trong tháng được đánh giá.",
+      "Tổng khối lượng giao dịch (tính theo BTC) (Đổi thành tính theo USDT nhe): tổng khối lượng giao dịch do những người được giới thiệu hoạt động thực hiện trong tháng.",
+      "Để đạt được một cấp độ cụ thể, cả hai điều kiện về số người được giới thiệu hoạt động và tổng khối lượng giao dịch đều phải đạt yêu cầu tối thiểu của cấp độ đó.."
+    ]
+  },
+  {
+    "title": "Tính toán Hoa hồng",
+    "items": [
+      "Hoa hồng được tính dựa trên phí giao dịch (spot và futures) mà người được giới thiệu trực tiếp đã chi trả.",
+      "Áp dụng tỷ lệ hoa hồng cơ bản và tỷ lệ hoa hồng bổ sung (nếu có) để tính toán số hoa hồng nhận được."
+    ]
+  },
+  {
+    "title": "Chu kỳ Thanh toán",
+    "items": [
+      "Hoa hồng được tính toán theo từng giờ và người dùng có thể rút bất cứ lúc nào."
+    ]
+  },
+  {
+    "title": "Thời gian Hiệu lực",
+    "items": [
+      "Hoa hồng sẽ được chi trả vô thời hạn, miễn là người được giới thiệu vẫn tiếp tục giao dịch trên sàn."
+    ]
+  },
+  {
+    "title": "Các Trường hợp Ngoại lệ",
+    "items": [
+      "Hoa hồng có thể không được trả cho các giao dịch không phát sinh phí hoặc các giao dịch được áp dụng mức phí đặc biệt."
+    ]
+  },
+  {
+    "title": "Điều khoản Sử dụng",
+    "items": [
+      "Điều kiện để trở thành người giới thiệu: Người được giới thiệu phải đăng ký thông qua mã giới thiệu (Referral Code) hoặc liên kết giới thiệu (Referral Link) của bạn.",
+      "Cấm tự giới thiệu: Không được phép tự đăng ký thông qua liên kết của chính mình (self-referral). Vi phạm sẽ dẫn đến loại khỏi chương trình.",
+      "Quyền sửa đổi chương trình: Sàn giao dịch có quyền thay đổi điều khoản chương trình bất kỳ lúc nào.",
+      "Giới hạn khu vực: Chương trình có thể không khả dụng tại một số quốc gia nhất định (ví dụ: Bỉ, Thổ Nhĩ Kỳ, Pháp, Hà Lan).",
+      "Yêu cầu KYC: Người được giới thiệu phải hoàn tất xác minh danh tính (KYC) để được tính vào hoa hồng.",
+      "Không giới hạn số người bạn có thể giới thiệu. Tuy nhiên, chúng tôi có quyền điều chỉnh hoặc thay đổi các quy định của chương trình bất kỳ lúc nào.",
+      "Mỗi người được giới thiệu phải đăng ký qua liên kết giới thiệu, mã QR hoặc mã ID giới thiệu của bạn.",
+      "BITRUTH sẽ kiểm tra các tài khoản trùng lặp hoặc giả mạo và không trao thưởng cho các tài khoản đó. Các tài khoản trùng lặp hoặc có thông tin tài chính được chia sẻ sẽ bị loại.",
+      "Thông báo quan trọng: BITRUTH có quyền thay đổi điều kiện chương trình giới thiệu bất cứ lúc nào do biến động thị trường, rủi ro gian lận hoặc các yếu tố liên quan khác."
+    ]
+  }
+    ]
+    },
+    {
+      "section":"RULE",
+      "subsections":[
+        {
+    "title": "Đối tượng tham gia",
+    "items": [
+      "Chương trình áp dụng cho:",
+      "  - Người giới thiệu: Tất cả người dùng có tài khoản hợp lệ trên Bitruth",
+      "  - Người được giới thiệu: Người dùng mới đăng ký thông qua hệ thống giới thiệu của Bitruth",
+      "Điều kiện tham gia:",
+      "  - Người được giới thiệu phải hoàn thành xác minh danh tính (KYC)",
+      "  - Không chấp nhận trường hợp tự giới thiệu (self-referral)",
+      "  - Chương trình có thể không khả dụng tại một số khu vực pháp lý"
+    ]
+  },
+  {
+    "title": "Thời gian",
+    "items": [
+      "Chu kỳ đánh giá:",
+      "  - Đánh giá cấp độ: Hàng tháng (tính đến cuối mỗi tháng)",
+      "  - Hiệu lực cấp độ: Áp dụng cho tháng tiếp theo",
+      "Tính toán hoa hồng:",
+      "  - Cập nhật theo giờ",
+      "  - Có thể yêu cầu rút bất kỳ lúc nào",
+      "  - Hiệu lực hoa hồng: Không giới hạn thời gian"
+    ]
+  },
+  {
+    "title": "Cách thức tham gia",
+    "items": [
+      "Bước 1: Tiếp cận chương trình",
+      "  - Truy cập mục \"Chương trình giới thiệu\" trong tài khoản cá nhân",
+      "  - Lấy thông tin giới thiệu (mã, liên kết hoặc mã QR)",
+      "Bước 2: Chia sẻ chương trình",
+      "  - Phổ biến thông tin giới thiệu tới người dùng tiềm năng",
+      "  - Đảm bảo người được giới thiệu sử dụng đúng thông tin của bạn",
+      "Bước 3: Xác nhận tham gia",
+      "  - Người được giới thiệu phải:",
+      "    * Đăng ký qua hệ thống giới thiệu của bạn",
+      "    * Hoàn tất xác minh KYC",
+      "    * Thực hiện ít nhất 1 giao dịch hợp lệ"
+    ]
+  },
+  {
+    "title": "Chính sách hoa hồng áp dụng",
+    "items": [
+      "Cơ chế tính toán:",
+      "  - Dựa trên phí giao dịch (Spot và Futures) của người được giới thiệu",
+      "  - Áp dụng tỷ lệ hoa hồng tương ứng với cấp độ",
+      "Quy trình nhận hoa hồng:",
+      "  - Hoa hồng được tính tự động theo hệ thống",
+      "  - Kiểm tra số dư tại mục \"Ví hoa hồng\"",
+      "  - Thực hiện yêu cầu rút theo nhu cầu",
+      "Điều kiện đặc biệt:",
+      "  - Không áp dụng cho các giao dịch không phát sinh phí",
+      "  - Bitruth bảo lưu quyền điều chỉnh chính sách khi cần thiết",
+      "  - Có thể từ chối hoa hồng nếu phát hiện gian lận",
+      "Lưu ý:",
+      "  - Thông tin chương trình có thể được cập nhật định kỳ.",
+      "  - Người tham gia nên thường xuyên kiểm tra các thông báo chính thức từ Bitruth để nắm bắt các thay đổi mới nhất."
+    ]
+  },
+  {
+    "title": "Điều khoản tham gia",
+    "items": [
+      "Điều kiện để trở thành người giới thiệu: Người được giới thiệu phải đăng ký thông qua mã giới thiệu (Referral Code) hoặc liên kết giới thiệu (Referral Link) của bạn.",
+      "Cấm tự giới thiệu: Không được phép tự đăng ký thông qua liên kết của chính mình (self-referral). Vi phạm sẽ dẫn đến loại khỏi chương trình.",
+      "Quyền sửa đổi chương trình: Sàn giao dịch có quyền thay đổi điều khoản chương trình bất kỳ lúc nào.",
+      "Giới hạn khu vực: Chương trình có thể không khả dụng tại một số quốc gia nhất định (ví dụ: Bỉ, Thổ Nhĩ Kỳ, Pháp, Hà Lan).",
+      "Yêu cầu KYC: Người được giới thiệu phải hoàn tất xác minh danh tính (KYC) để được tính vào hoa hồng.",
+      "Không giới hạn số người bạn có thể giới thiệu. Tuy nhiên, chúng tôi có quyền điều chỉnh hoặc thay đổi các quy định của chương trình bất kỳ lúc nào.",
+      "Mỗi người được giới thiệu phải đăng ký qua liên kết giới thiệu, mã QR hoặc mã ID giới thiệu của bạn.",
+      "BITRUTH sẽ kiểm tra các tài khoản trùng lặp hoặc giả mạo và không trao thưởng cho các tài khoản đó. Các tài khoản trùng lặp hoặc có thông tin tài chính được chia sẻ sẽ bị loại.",
+      "Thông báo quan trọng: BITRUTH có quyền thay đổi điều kiện chương trình giới thiệu bất cứ lúc nào do biến động thị trường, rủi ro gian lận hoặc các yếu tố liên quan khác"
+    ]
+  }
+      ]
+    },
+    {
+      "section":"FAQ",
+      "subsections":[
+        {
+    "title": "Làm sao để tham gia chương trình giới thiệu?",
+    "items": [
+      "Bạn có thể truy cập mục “Giới thiệu” trên ứng dụng hoặc website Bitruth, sau đó sao chép liên kết, mã giới thiệu hoặc mã QR để gửi đến bạn bè. Khi người được giới thiệu đăng ký qua đó, hoàn tất KYC và có giao dịch, hệ thống sẽ ghi nhận và bắt đầu tính hoa hồng cho mình ạ."
+    ]
+  },
+   {
+    "title": "Giờ làm việc của support",
+    "items": [
+      "CS hoạt động 24/7 qua livechat, tuy nhiên thời gian phản hồi nhanh nhất là 09- 18h mỗi ngày."
+    ]
+  },
+  {
+    "title": "Đang có game gì",
+    "items": [
+      "Các trò chơi hiện đang diễn ra là FUTURES X1000, OPTION GAME (GIẢI THƯỞNG DÀNH CHO 1 NGƯỜI CHƠI), HIGH/LOW (GIẢI THƯỞNG DÀNH CHO 1 NGƯỜI CHƠI)"
+    ]
+  },
+  {
+    "title": "rút tiền về tài khoản ngân hàng được không",
+    "items": [
+      "Hiện tại Bitruth chưa hỗ trợ việc rút tiền trực tiếp bằng VND hoặc tài khoản ngân hàng. Bạn có thể sử dụng tính năng rút tiền về các ví cá nhân khác nhé. Để có thể rút tiền về ví cá nhân, bạn vui lòng thực hiện theo hướng dẫn sau:",
+"Vào mục  Tổng quan => Ví => Chọn coin =>“Rút” => Nhập địa chỉ ví và số lượng =>Xác nhận 2FA để hoàn tất."
+    ]
+  },
+  {
+    "title": "có thể rút tiền không",
+    "items": [
+      "Để có thể rút tiền về ví cá nhân, bạn vui lòng thực hiện theo hướng dẫn sau:",
+"Vào mục  Tổng quan => Ví => Chọn coin =>“Rút” => Nhập địa chỉ ví và số lượng =>Xác nhận 2FA để hoàn tất."
+    ]
+  },
+  {
+    "title": "Tôi bị mất lệnh",
+    "items": [
+  "Trường hợp có lỗi phát sinh trong giao dịch và bị mất lệnh", 
+  "bạn vui lòng gửi yêu cầu đến bộ phận Chăm sóc khách hàng kèm theo các thông tin sau: TXID ( Mã giao dịch)", 
+  "HÌnh ảnh và thông tin giao dịch để được hỗ trợ kịp thời."  
+  ]
+  },
+  {
+    "title": "Đòn bẩy tối đa",
+    "items": [
+ "Mỗi cặp giao dịch trên Futures sẽ có mức đòn bẩy tối đa khác nhau",
+  "tùy thuộc vào đặc điểm tài sản và điều kiện thị trường tại thời điểm đó.",
+"Để kiểm tra chính xác, bạn có thể:",
+"Truy cập mục Futures trong app hoặc website",
+"Chọn cặp giao dịch bạn quan tâm",
+"Nhấn vào biểu tượng đòn bẩy (ví dụ: 20x) để xem và điều chỉnh",
+"Hệ thống sẽ hiển thị mức đòn bẩy tối đa được phép áp dụng cho từng cặp tại thời điểm giao dịch."
+  ]
+  },
+  {
+    "title": "tôi cần rút tiền",
+    "items": [
+      "Để có thể rút tiền về ví cá nhân, bạn vui lòng thực hiện theo hướng dẫn sau:", 
+"Vào mục  Tổng quan => Ví => Chọn coin =>“Rút” => Nhập địa chỉ ví và số lượng =>Xác nhận 2FA để hoàn tất."
+
+    ]
+  },
+  {
+    "title": "Hoa hồng được bao nhiêu",
+    "items": [
+     "Hoa hồng của bạn được tính dựa trên số người được giới thiệu và tổng khối lượng giao dịch của họ. ",
+    " Càng nhiều người tham gia và giao dịch lớn", 
+     "tỷ lệ hoa hồng càng cao. Vui lòng kiểm tra tại http://bitruth.com/referral/ để xem chi tiết cấp độ và tỷ lệ hiện tại."
+
+    ]
+  },
+  {
+    "title": "Làm thế nào để đăng ký tài khoản trên Bitruth?",
+    "items": [
+      "Bạn có thể đăng ký tài khoản bằng email hoặc số điện thoại trên trang chủ Bitruth.",
+      "Sau đó, xác minh email và bật xác thực hai yếu tố (2FA) để hoàn tất."
+    ]
+  },
+  
+  {
+    "title": "Tôi không nhận được mã xác minh khi đăng ký?",
+    "items": [
+      "Hãy kiểm tra thư mục \"Spam\" trong email hoặc thử gửi lại mã.",
+      "Nếu vẫn không nhận được, vui lòng liên hệ bộ phận Chăm Sóc Khách Hàng để được hỗ trợ."
+    ]
+  },
+  {
+    "title": "Tôi nạp tiền vào địa chỉ sai thì có thể lấy lại không?",
+    "items": [
+      "Trong hầu hết các trường hợp, nếu bạn nạp tiền vào địa chỉ sai, giao dịch sẽ không thể được hoàn lại. Tuy nhiên",
+      "bạn vui lòng cung cấp chi tiết thông tin giao dịch (bao gồm TXID", 
+      "địa chỉ ví, loại coin, số lượng...) bộ phận chăm sóc khách hàng của Bitruth có thể kiểm tra và hỗ trợ thêm nếu có khả năng khôi phục."
+    ]
+  },
+  {
+    "title": "Hệ thống báo email đã tồn tại, tôi phải làm gì?",
+    "items": [
+      "Có thể bạn đã đăng ký trước đó.",
+      "Thử sử dụng chức năng \"Quên Mật Khẩu\" để đặt lại hoặc dùng email khác để đăng ký."
+    ]
+  },
+  {
+    "title": "Tôi có thể chuyển tiền từ sàn giao dịch khác sang Bitruth không?",
+    "items": [
+      "Bạn có thể chuyển tiền từ sàn giao dịch khác sang Bitruth", 
+      "chỉ cần đảm bảo chọn đúng mạng và đúng địa chỉ ví Bitruth."
+    ]
+  },
+  {
+    "title": "Làm sao chuyển tài sản từ ví Spot sang ví Futures?",
+    "items": [
+      "Vào mục Ví -> Tổng quan ví -> Chọn token bạn muốn -> Chọn  Chuyển"
+    ]
+  },
+  {
+    "title": "Rút tiền có mất phí không?",
+    "items": [
+      "Việc rút tiền sẽ có thu phí, và mức phí rút tùy thuộc vào loại tài sản và mạng lưới blockchain mà bạn chọn.",
+"Trước khi xác nhận rút, hệ thống sẽ hiển thị rõ mức phí và số tiền thực nhận, bạn có thể kiểm tra kỹ tại bước này"
+    ]
+  },
+   {
+    "title": "Có thể thay đổi email đăng ký không?",
+    "items": [
+     "Bạn vui lòng liên hệ bộ phận Chăm sóc Khách hàng để xác minh danh tính và gửi yêu cầu thay đổi email. ",
+   "  Quá trình này có thể mất từ 1–2 ngày làm việc để xử lý."  
+   ]
+  },
+  {
+    "title": "Làm sao để kiểm tra lịch sử rút tiền?",
+    "items": [
+     "Cách kiểm tra lịch sử rút tiền:",
+"Đăng nhập vào tài khoản Bitruth của bạn.",
+"Truy cập mục Ví (Wallet) → chọn Lịch sử thay đổi số dư (Transaction History).",
+"Chuyển sang tab Rút tiền (Withdrawals) để xem các giao dịch đã thực hiện.",
+"Tại đây bạn sẽ thấy thông tin như: loại coin, địa chỉ rút, thời gian, trạng thái và TXID"
+   ]
+  },
+  {
+    "title": "Tôi có thể tạo nhiều tài khoản không?",
+    "items": [
+      "Không. Mỗi cá nhân chỉ được phép tạo một tài khoản duy nhất.",
+      "Vi phạm có thể khiến tất cả các tài khoản liên quan bị khóa."
+    ]
+  },
+  {
+    "title": "Đòn bẩy của đồng XLMUSDT là bao nhiêu?",
+    "items": [
+     "Hiện tại, cặp XLMUSDT trên Bitruth Futures đang hỗ trợ mức đòn bẩy tối đa lên đến 100x.",
+"Tuy nhiên, mức đòn bẩy cụ thể có thể thay đổi tùy theo điều kiện thị trường hoặc chính sách quản lý rủi ro tại từng thời điểm.",
+"Bạn có thể kiểm tra trực tiếp mức đòn bẩy khả dụng khi tạo lệnh giao dịch, hoặc điều chỉnh tại mục Đòn bẩy trong giao diện đặt lệnh."
+    ]
+  },
+  {
+    "title": "Tôi đã nhập đúng email nhưng không thể đăng ký?",
+    "items": [
+      "Hãy chắc chắn email chưa được sử dụng và đúng định dạng.",
+      "Nếu sự cố vẫn tiếp diễn, chụp màn hình và liên hệ CS để kiểm tra."
+    ]
+  },
+  {
+    "title": "Làm sao để tôi lấy voucher",
+    "items": [
+      "Để nhận phiếu quà tặng, bạn có thể sử dụng điểm của mình để đổi tại Cửa hàng Phần thưởng (mở cửa từ 12:00 trưa Thứ Sáu đến 12:00 trưa Chủ Nhật).",
+"Một số phiếu quà tặng có thể yêu cầu các điều kiện bổ sung như hoàn tất KYC, giao dịch Hợp đồng Tương lai hợp lệ trong tuần và số ngày đăng nhập liên tiếp.",
+"Phần thưởng sẽ được gửi qua email trong vòng 1-2 ngày làm việc.",
+"Đối với phiếu quà tặng Hợp đồng Tương lai, người dùng phải đạt đến khối lượng giao dịch nhất định trước khi có thể rút lợi nhuận."
+    ]
+  },
+  {
+    "title": "Tôi không thể đăng nhập vào tài khoản Bitruth?",
+    "items": [
+      "Kiểm tra lại thông tin đăng nhập và đảm bảo đã bật 2FA.",
+      "Nếu vẫn không được, thử đặt lại mật khẩu hoặc liên hệ CS để xác minh."
+    ]
+  },
+  {
+    "title": "Tôi quên mật khẩu, làm sao để đặt lại?",
+    "items": [
+      "Nhấn \"Quên Mật Khẩu\" trên trang đăng nhập và nhập email để nhận liên kết đặt lại.",
+      "Nhớ kiểm tra cả thư mục Spam."
+    ]
+  },
+  {
+    "title": "Bitruth hỗ trợ loại 2FA nào?",
+    "items": [
+      "Hiện Bitruth hỗ trợ Google Authenticator.",
+      "Hãy bật và lưu mã khôi phục để đề phòng mất quyền truy cập điện thoại."
+    ]
+  },
+  {
+    "title": "Làm sao để thay đổi email đăng nhập?",
+    "items": [
+      "Liên hệ CS kèm giấy tờ xác minh danh tính để yêu cầu đổi email.",
+      "Quá trình này có thể mất 1–2 ngày làm việc."
+    ]
+  },
+  {
+    "title": "KYC là gì và tại sao cần trên Bitruth?",
+    "items": [
+      "KYC (Know Your Customer) là quy trình xác minh danh tính người dùng.",
+      "Giúp tuân thủ quy định pháp luật và đảm bảo giao dịch an toàn."
+    ]
+  },
+  {
+    "title": "Cần chuẩn bị giấy tờ gì cho xác minh KYC?",
+    "items": [
+      "Chuẩn bị 1 trong các giấy tờ: CMND/CCCD, Hộ chiếu.",
+      "Giấy tờ phải rõ nét, không hư hỏng, thông tin và ảnh chân dung hiển thị đầy đủ."
+    ]
+  },
+  {
+    "title": "Mất bao lâu để xử lý KYC?",
+    "items": [
+      "Thường trong vòng 24 giờ.",
+      "Trường hợp cần xem xét thêm có thể kéo dài đến 48 giờ."
+    ]
+  },
+  {
+    "title": "Tôi nhận được thông báo KYC không thành công, tại sao?",
+    "items": [
+      "Có thể do hình ảnh mờ, giấy tờ hết hạn hoặc thông tin không khớp.",
+      "Vui lòng kiểm tra lại và gửi lại tài liệu rõ nét."
+    ]
+  },
+  {
+    "title": "Tại sao hồ sơ KYC của tôi bị từ chối?",
+    "items": [
+      "Nguyên nhân có thể do hình ảnh không rõ, giấy tờ không hợp lệ hoặc thông tin sai.",
+      "Hãy kiểm tra và nộp lại đúng hướng dẫn."
+    ]
+  },
+  {
+    "title": "Tài khoản bị khóa do KYC, tôi phải làm gì?",
+    "items": [
+      "Liên hệ CS để được hỗ trợ mở khóa.",
+      "Bạn có thể cần nộp lại giấy tờ xác minh."
+    ]
+  },
+  {
+    "title": "Tôi thử nhiều lần nhưng không qua KYC, giúp tôi với?",
+    "items": [
+      "Liên hệ CS qua live chat hoặc email để được hỗ trợ cá nhân hóa.",
+      "Chúng tôi sẽ kiểm tra và hướng dẫn chi tiết."
+    ]
+  },
+  {
+    "title": "Thông tin cá nhân của tôi có được bảo mật không?",
+    "items": [
+      "Bitruth cam kết bảo vệ dữ liệu KYC theo quy định quốc tế.",
+      "Không chia sẻ với bên thứ ba khi chưa có sự đồng thuận."
+    ]
+  },
+  {
+    "title": "Làm sao để đổi mật khẩu tài khoản?",
+    "items": [
+      "Vào Hồ sơ → Bảo mật → Đổi Mật Khẩu.",
+      "Nhập mật khẩu cũ và mật khẩu mới để xác nhận."
+    ]
+  },
+  {
+    "title": "Quên mật khẩu, làm sao khôi phục?",
+    "items": [
+      "Nhấn “Quên Mật Khẩu” và làm theo hướng dẫn qua email.",
+      "Kiểm tra cả thư mục Spam."
+    ]
+  },
+  {
+    "title": "Có thể thay đổi email đăng ký không?",
+    "items": [
+      "Gửi yêu cầu kèm giấy tờ xác minh đến CS để đổi email."
+    ]
+  },
+  {
+    "title": "Mất số điện thoại, làm sao cập nhật?",
+    "items": [
+      "Gửi yêu cầu đổi số điện thoại kèm CMND/CCCD đến CS để xác minh."
+    ]
+  },
+  {
+    "title": "Làm sao bật xác thực hai bước (2FA)?",
+    "items": [
+      "Vào Hồ sơ → Bảo mật → 2FA và quét mã QR bằng Google Authenticator."
+    ]
+  },
+  {
+    "title": "Mất quyền truy cập 2FA, tôi phải làm sao?",
+    "items": [
+      "Gửi yêu cầu kèm giấy tờ đến CS để khôi phục quyền truy cập."
+    ]
+  },
+  {
+    "title": "Có thể tạm tắt 2FA không?",
+    "items": [
+      "Vì lý do bảo mật, 2FA không thể tạm tắt. Chỉ có thể gỡ và cài lại."
+    ]
+  },
+  {
+    "title": "Không nhận được OTP qua SMS?",
+    "items": [
+      "Kiểm tra sóng di động, chờ vài phút hoặc chuyển sang Google Authenticator."
+    ]
+  },
+  {
+    "title": "Nhập đúng OTP nhưng vẫn lỗi?",
+    "items": [
+      "Kiểm tra thời gian điện thoại đã đặt tự động và đồng bộ chính xác.",
+      "Nếu vẫn lỗi, cài lại Google Authenticator."
+    ]
+  },
+  {
+    "title": "Làm sao quản lý thiết bị đăng nhập?",
+    "items": [
+      "Vào Hồ sơ → Bảo mật → Quản lý Thiết bị để xem và đăng xuất các thiết bị lạ."
+    ]
+  },
+  {
+    "title": "Nghi ngờ ai đó truy cập tài khoản, tôi phải làm gì?",
+    "items": [
+      "Thay đổi mật khẩu ngay lập tức và bật 2FA.",
+      "Liên hệ CS để kiểm tra lịch sử đăng nhập."
+    ]
+  },
+  {
+    "title": "Muốn tạm khóa tài khoản, phải làm sao?",
+    "items": [
+      "Gửi yêu cầu tạm khóa đến CS vì lý do bảo mật."
+    ]
+  },
+  {
+    "title": "Hệ thống có thông báo đăng nhập bất thường không?",
+    "items": [
+      "Có, hệ thống sẽ gửi email và thông báo nếu phát hiện đăng nhập bất thường."
+    ]
+  },
+  {
+    "title": "Làm sao nâng cao bảo mật tài khoản?",
+    "items": [
+      "Bật 2FA, dùng mật khẩu mạnh và không chia sẻ mã OTP."
+    ]
+  },
+  {
+    "title": "Làm sao tìm địa chỉ ví để nạp tiền?",
+    "items": [
+      "Vào Ví → Tổng quan → Chọn coin → Nạp để lấy địa chỉ ví."
+    ]
+  },
+  {
+    "title": "Nạp tiền thường mất bao lâu?",
+    "items": [
+      "Tùy mạng blockchain, thường 1–15 phút. Một số trường hợp lâu hơn."
+    ]
+  },
+  {
+    "title": "Nếu nạp sai mạng, tôi phải làm gì?",
+    "items": [
+      "Liên hệ CS với TXID và ảnh chụp màn hình để được hỗ trợ."
+    ]
+  },
+  {
+    "title": "Có thể nạp VND trực tiếp không?",
+    "items": [
+      "Không hỗ trợ nạp VND trực tiếp. Dùng P2P hoặc kênh fiat được hỗ trợ."
+    ]
+  },
+  {
+    "title": "Tôi đã nạp nhưng chưa nhận được tiền?",
+    "items": [
+      "Kiểm tra TXID và mạng, nếu quá 30 phút chưa thấy, liên hệ CS."
+    ]
+  },
+  {
+    "title": "Có thể khôi phục tiền gửi nhầm địa chỉ không?",
+    "items": [
+      "Hầu hết không thể. Nhưng cung cấp chi tiết để CS kiểm tra kỹ thuật."
+    ]
+  },
+  {
+    "title": "Làm sao kiểm tra nạp thành công?",
+    "items": [
+      "Theo dõi TXID trên trình khám phá blockchain tương ứng."
+    ]
+  },
+  {
+    "title": "Cho phép chuyển crypto từ sàn khác vào Bitruth?",
+    "items": [
+      "Có, chỉ cần chọn đúng mạng và địa chỉ ví Bitruth."
+    ]
+  },
+  {
+    "title": "Rút tiền về ví cá nhân như thế nào?",
+    "items": [
+      "Vào Ví → Tổng quan → Rút → Nhập địa chỉ và số lượng → Xác thực 2FA."
+    ]
+  },
+  {
+    "title": "Có phí rút tiền không?",
+    "items": [
+      "Có, phí khác nhau tùy coin và mạng được chọn."
+    ]
+  },
+  {
+    "title": "Rút tiền mất bao lâu?",
+    "items": [
+      "Thông thường 5–30 phút, có thể lâu hơn nếu mạng đông hoặc cần kiểm tra."
+    ]
+  },
+  {
+    "title": "Tôi đã yêu cầu rút nhưng chưa nhận được tiền?",
+    "items": [
+      "Kiểm tra lịch sử rút; nếu quá 60 phút, liên hệ CS."
+    ]
+  },
+  {
+    "title": "Có thể lấy lại tiền nếu nhập sai thông tin rút?",
+    "items": [
+      "Tùy token và blockchain; CS có thể hỗ trợ nếu giao dịch chưa được xác nhận."
+    ]
+  },
+  {
+    "title": "Hạn mức rút tối thiểu là bao nhiêu?",
+    "items": [
+      "Phụ thuộc vào coin; hệ thống hiển thị khi bạn nhập yêu cầu."
+    ]
+  },
+  {
+    "title": "Phải KYC trước khi rút không?",
+    "items": [
+      "Có, chỉ rút được sau khi hoàn tất KYC."
+    ]
+  },
+  {
+    "title": "Làm sao kiểm tra lịch sử rút tiền?",
+    "items": [
+      "Vào Ví → Lịch sử Giao dịch → Rút tiền."
+    ]
+  },
+  {
+    "title": "Có rút fiat về ngân hàng được không?",
+    "items": [
+      "Hiện chưa hỗ trợ; vui lòng dùng tính năng P2P."
+    ]
+  },
+  {
+    "title": "Mua crypto qua P2P như thế nào?",
+    "items": [
+      "Vào tab P2P → Chọn người bán → Nhập số tiền → Mua → Chuyển khoản và xác nhận."
+    ]
+  },
+  {
+    "title": "Bán crypto qua P2P như thế nào?",
+    "items": [
+      "Vào tab P2P → Nhập số lượng → Nhận thanh toán rồi nhấn “Đã nhận tiền”."
+    ]
+  },
+  {
+    "title": "Ngân hàng nào hỗ trợ P2P?",
+    "items": [
+      "Các ngân hàng nội địa hỗ trợ chuyển nhanh 24/7."
+    ]
+  },
+  {
+    "title": "Làm sao báo cáo người mua/bán lừa đảo?",
+    "items": [
+      "Nhấn “Báo cáo” trong chat giao dịch và cung cấp bằng chứng cho CS."
+    ]
+  },
+  {
+    "title": "Có bao nhiêu thời gian để thanh toán?</p>",
+    "items": [
+      "Thông thường 15 phút. Hãy chuyển tiền và xác nhận càng sớm càng tốt."
+    ]
+  },
+  {
+    "title": "Làm sao biết người bán đáng tin cậy?",
+    "items": [
+      "Kiểm tra tỷ lệ hoàn thành giao dịch, đánh giá và số giao dịch đã hoàn thành."
+    ]
+  },
+  {
+    "title": "Có thể tự đăng tin P2P không?",
+    "items": [
+      "Có, khi hoàn tất KYC và kích hoạt Merchant P2P."
+    ]
+  },
+  {
+    "title": "Chuyển từ Ví Spot sang Futures như thế nào?",
+    "items": [
+      "Vào Ví → Tổng quan → Chọn token → Nhấn “Chuyển”."
+    ]
+  },
+  {
+    "title": "Làm sao xem tổng giá trị tài sản?",
+    "items": [
+      "Vào mục Tài sản để xem tổng số dư quy đổi sang USDT."
+    ]
+  },
+  {
+    "title": "Bitruth hỗ trợ USDT trên chain nào?",
+    "items": [
+      "ERC20, TRC20, BEP20 (xem chi tiết trang Nạp/Rút)."
+    ]
+  },
+  {
+    "title": "Ví bị đóng băng nghĩa là gì?",
+    "items": [
+      "Ví có thể bị đóng băng vì lý do bảo mật, nghi ngờ gian lận hoặc quy định KYC."
+    ]
+  },
+  {
+    "title": "Giao dịch Spot là gì?",
+    "items": [
+      "Spot là mua/bán tài sản ngay lập tức với giá thị trường."
+    ]
+  },
+  {
+    "title": "Phí giao dịch Spot trên Bitruth là bao nhiêu?",
+    "items": [
+      "Mặc định 0.1%, có thể thay đổi theo khuyến mãi hoặc cấp độ tài khoản."
+    ]
+  },
+  {
+    "title": "Làm sao đặt lệnh Spot?",
+    "items": [
+      "Chọn cặp giao dịch → Nhập khối lượng và giá → Nhấn “Mua” hoặc “Bán”."
+    ]
+  },
+  {
+    "title": "Có loại lệnh nào được hỗ trợ?",
+    "items": [
+      "Limit, Market, Stop-Limit, Stop-Market."
+    ]
+  },
+  {
+    "title": "Có thể hủy lệnh chưa khớp không?",
+    "items": [
+      "Có, vào “Lệnh Mở” để hủy các lệnh chưa thực hiện."
+    ]
+  },
+  {
+    "title": "Xem lịch sử Spot ở đâu?",
+    "items": [
+      "Vào “Lịch sử Lệnh” → Spot để xem tất cả lệnh."
+    ]
+  },
+  {
+    "title": "Lệnh Limit là gì và khi nào dùng?",
+    "items": [
+      "Cho phép đặt giá cố định, chỉ khớp khi thị trường đạt mức đó."
+    ]
+  },
+  {
+    "title": "Lệnh Market là gì?",
+    "items": [
+      "Khớp ngay tại giá tốt nhất hiện có."
+    ]
+  },
+  {
+    "title": "Lệnh Stop-Limit là gì?",
+    "items": [
+      "Khi giá đạt đến điểm dừng, tự động chuyển thành lệnh Limit."
+    ]
+  },
+  {
+    "title": "Lệnh Stop-Market và Stop-Limit khác gì?",
+    "items": [
+      "Stop-Market khớp ngay, Stop-Limit hẹn lệnh ở giá cố định."
+    ]
+  },
+  {
+    "title": "Giao dịch Futures là gì?",
+    "items": [
+      "Là hợp đồng phái sinh cho phép dùng đòn bẩy để mua/bán tài sản tại giá đã định trong tương lai."
+    ]
+  },
+  {
+    "title": "Futures khác Spot như thế nào?",
+    "items": [
+      "Spot giao ngay, Futures là giao dịch hợp đồng với đòn bẩy và không cần giao nhận tài sản ngay."
+    ]
+  },
+  {
+    "title": "Margin trong Futures là gì?",
+    "items": [
+      "Số tiền ký quỹ cần thiết để mở vị thế, bao gồm Initial và Maintenance Margin."
+    ]
+  },
+  {
+    "title": "Đòn bẩy hỗ trợ bao nhiêu?",
+    "items": [
+      "Từ 1x đến 50x tùy tài sản và mức độ rủi ro."
+    ]
+  },
+  {
+    "title": "Long và Short nghĩa là gì?",
+    "items": [
+      "Long: đặt cược giá tăng; Short: giá giảm."
+    ]
+  },
+  {
+    "title": "Cách mở vị thế Futures?",
+    "items": [
+      "Chọn cặp hợp đồng → Chọn đòn bẩy → Nhập khối lượng → Chọn Buy (Long) hoặc Sell (Short)."
+    ]
+  },
+  {
+    "title": "Phí Funding Fee là gì và khi nào tính?",
+    "items": [
+      "Là khoản phí chuyển giữa Long và Short mỗi 8 giờ để giữ giá futures và spot cân bằng.",
+      "Rate dương: Long trả Short; Rate âm: Short trả Long."
+    ]
+  },
+  {
+    "title": "Khi nào vị thế Futures bị thanh lý?",
+    "items": [
+      "Khi margin xuống dưới Maintenance, hệ thống tự động đóng vị thế."
+    ]
+  },
+  {
+    "title": "Quản lý rủi ro trong Futures như thế nào?",
+    "items": [
+      "Dùng đòn bẩy thấp, đặt Stop Loss và tránh dồn hết vốn vào một vị thế."
+    ]
+  },
+  {
+    "title": "Bitruth có hỗ trợ TP/SL tự động không?",
+    "items": [
+      "Có, bạn có thể đặt TP/SL khi mở hoặc chỉnh sửa sau."
+    ]
+  },
+  {
+    "title": "Lệnh khớp một phần có nghĩa gì?",
+    "items": [
+      "Một phần khối lượng được khớp, phần còn lại chờ khớp hoặc hủy."
+    ]
+  },
+  {
+    "title": "Phí giao dịch Futures là bao nhiêu?",
+    "items": [
+      "Maker: 0.02%, Taker: 0.06%. Có thể giảm theo khuyến mãi hoặc cấp độ tài khoản."
+    ]
+  },
+  {
+    "title": "Làm sao lấy mã giới thiệu?",
+    "items": [
+      "Vào mục “Giới thiệu” để sao chép mã cá nhân của bạn."
+    ]
+  },
+  {
+    "title": "Có xem được ai dùng mã giới thiệu không?",
+    "items": [
+      "Có, vào “Giới thiệu” → Xem danh sách bạn bè được giới thiệu."
+    ]
+  },
+  {
+    "title": "Điều kiện nhận thưởng giới thiệu là gì?",
+    "items": [
+      "Người được giới thiệu phải hoàn tất KYC và đạt tiêu chí giao dịch."
+    ]
+  },
+  {
+    "title": "Khi nào tôi nhận thưởng giới thiệu?",
+    "items": [
+      "Thưởng được phân bổ sau khi người được giới thiệu đủ điều kiện."
+    ]
+  },
+  {
+    "title": "Bitruth bảo vệ dữ liệu cá nhân thế nào?",
+    "items": [
+      "Tuân thủ chính sách riêng tư nghiêm ngặt, mã hóa và không chia sẻ khi chưa đồng ý."
+    ]
+  },
+  {
+    "title": "Không đăng nhập được, tôi phải làm sao?",
+    "items": [
+      "Kiểm tra mật khẩu, 2FA hoặc thử đặt lại mật khẩu."
+    ]
+  },
+  {
+    "title": "Tại sao KYC lâu vậy?",
+    "items": [
+      "Do khối lượng xác minh lớn, vui lòng chờ 24 giờ hoặc liên hệ CS."
+    ]
+  },
+  {
+    "title": "Làm sao liên hệ Chăm Sóc Khách Hàng?",
+    "items": [
+      "Gửi ticket trong app hoặc email contact@bitruth.com."
+    ]
+  },
+  {
+    "title": "Có lỗi hệ thống, tôi báo như thế nào?",
+    "items": [
+      "Gửi mô tả và ảnh chụp màn hình cho team hỗ trợ để kiểm tra."
+    ]
+  },
+  {
+    "title": "Tài khoản bị khóa, làm sao mở lại?",
+    "items": [
+      "Gửi yêu cầu kèm giấy tờ xác minh để mở khóa."
+    ]
+  },
+  {
+    "title": "Bao lâu mất để giải quyết khiếu nại?",
+    "items": [
+      "Thời gian phản hồi tiêu chuẩn 24–48 giờ làm việc. Trường hợp khẩn sẽ ưu tiên."
+    ]
+  },
+  {
+    "title": "Có hỗ trợ ngoài giờ không?",
+    "items": [
+      "Livechat 24/7. Phản hồi nhanh nhất thường 8 AM–8 PM."
+    ]
+  },
+  {
+    "title": "tôi tạo nhiều tài khoản được không",
+    "items": [
+      "Hiện tại Bitruth chỉ hỗ trợ mỗi cá nhân chỉ được tạo 01 tài khoản để sử dụng. Các tài khoản bị trùng lặp thông tin sẽ bị khóa."
+    ]
+  },
+  {
+    "title": "tôi ko dịnh danh được",
+    "items": [
+      "Trường hợp  bị từ chối KYC, bạn vui lòng kiểm tra lại giấy tờ đã hợp lệ hay chưa nhé..",
+"Có thể do hình ảnh giấy tờ bị mờ, sai thông tin hoặc hình ảnh đã qua chỉnh sửa. Bạn hãy kiểm tra lại và gửi lại hình ảnh hợp lệ theo hướng dẫn nhé. "
+    ]
+  },
+  {
+    "title": "tôi bị quên mật khẩu thì phải làm gì",
+    "items": [
+      "Trường hợp Quên mật khẩu, bạn vui lòng thao tác nhấn Quên mật khẩu tại trang đăng nhập",
+       "nhập email để nhận đường link đặt lại mật khẩu và làm theo hướng dẫn trong mail." ,
+       "Bạn nhớ kiểm tra cả hộp thư rác nữa nhé. "
+    ]
+  },
+{
+    "title": "tại sao không đăng nhập được",
+    "items": [
+     "Bạn vui lòng kiểm tra lại thông tin đăng nhập tài khoản", 
+     "hãy đảm bảo đã bật xác thực 2FA và nhập đúng mã bảo mật.", 
+     "Trong trường hợp vẫn không thể đăng nhập", 
+     "bạn có thể thao tác Quên mật khẩu hoặc liên hệ trực tiếp Bộ phận Chăm sóc khách hàng để được hỗ trợ." 
+      ]
+  },
+  {
+    "title": "tại sao kyc không được",
+    "items": [
+   " Trường hợp bị từ chối KYC, bạn vui lòng kiểm tra lại giấy tờ đã hợp lệ hay chưa nhé",
+"Có thể do hình ảnh giấy tờ bị mờ", 
+"sai thông tin hoặc hình ảnh đã qua chỉnh sửa. Bạn hãy kiểm tra lại và gửi lại hình ảnh hợp lệ theo hướng dẫn nhé." ,
+"Hoặc bạn có thể liên hệ trực tiếp CSKH "    ]
+  },
+  {
+    "title": "đã rút tiền nhưng chưa thấy đâu",
+    "items": [
+"Bạn vui lòng kiểm tra lại giao dịch", 
+"nếu quá 60 phút vẫn chưa nhận được tiền",
+" xin nhanh chóng liên hệ Bộ phận Chăm sóc khách hàng để được tư vấn và hỗ trợ. "  ]
+  },
+  {
+    "title": "Người giới thiệu hoặc người được giới thiệu có cần KYC không?",
+    "items": [
+      "Dạ người giới thiệu không bắt buộc phải KYC, tuy nhiên người được giới thiệu thì cần hoàn tất xác minh danh tính (KYC) để đủ điều kiện tính hoa hồng bạn nhé."
+    ]
+  },
+  {
+    "title": "Hoa hồng được tính như thế nào?",
+    "items": [
+      "Dạ hoa hồng được tính từ phí giao dịch Spot và Futures mà người được giới thiệu trực tiếp đã trả. Mức hoa hồng phụ thuộc vào cấp độ giới thiệu của bạn và được tính theo tỷ lệ phần trăm tương ứng ạ."
+    ]
+  },
+  {
+    "title": "Khi nào hoa hồng được trả?",
+    "items": [
+      "Hoa hồng được cập nhật tự động theo từng giờ. Bạn có thể kiểm tra số dư hoa hồng trong mục “Lịch sử hoa hồng” và rút về ví Bitruth bất cứ lúc nào bạn nhé."
+    ]
+  },
+  {
+    "title": "Nếu người được giới thiệu không giao dịch thì có được tính không?",
+    "items": [
+      "Trường hợp người được giới thiệu chỉ đăng ký mà không phát sinh giao dịch, hệ thống sẽ không tính hoa hồng, mong bạn thông cảm ạ."
+    ]
+  },
+  {
+    "title": "Người được giới thiệu đăng ký nhưng không dùng đúng liên kết thì sao?",
+    "items": [
+      "Nếu người được giới thiệu không đăng ký qua liên kết hoặc mã giới thiệu của bạn, hệ thống sẽ chưa thể ghi nhận hoa hồng và hiện tại không hỗ trợ bổ sung thủ công được, mong bạn thông cảm và thao tác giới thiệu đúng với thể lệ chương trình nhé."
+    ]
+  },
+  {
+    "title": "Cách tính cấp độ giới thiệu như thế nào?",
+    "items": [
+      "Dạ Bitruth đánh giá cấp độ vào cuối mỗi tháng dựa trên hai tiêu chí sau:",
+      "– Số lượng người được giới thiệu có phát sinh giao dịch trong tháng.",
+      "– Tổng khối lượng giao dịch của những người này (tính bằng USDT).",
+      "Cả hai điều kiện đều cần đạt yêu cầu tối thiểu của từng cấp để được nâng cấp ạ."
+    ]
+  },
+  {
+    "title": "Số lượng người có thể giới thiệu có bị giới hạn không?",
+    "items": [
+      "Dạ số lượt người giới thiệu không giới hạn. Bạn có thể giới thiệu bao nhiêu người đều được ạ."
+    ]
+  },
+  {
+    "title": "Người được giới thiệu ngừng giao dịch thì có ảnh hưởng đến hoa hồng không?",
+    "items": [
+      "Nếu người được giới thiệu ngừng giao dịch, bạn sẽ không tiếp tục nhận hoa hồng từ họ. Tuy nhiên, những khoản hoa hồng đã nhận trước đó vẫn được ghi nhận và được tính trên hệ thống bạn nhé."
+    ]
+  },
+  {
+    "title": "Có được nhận hoa hồng từ người do bạn mình/tài khoản người quen giới thiệu không? (cấp 2)",
+    "items": [
+      "Hiện tại Bitruth chỉ áp dụng chương trình hoa hồng cho người được bạn giới thiệu trực tiếp, mong bạn thông cảm nhé."
+    ]
+  },
+  {
+    "title": "Tôi kiểm tra cấp độ và hoa hồng ở đâu?",
+    "items": [
+      "Bạn có thể kiểm tra trực tiếp trong mục “Giới thiệu” trên website của Bitruth. Tại đây sẽ hiển thị số người được giới thiệu, khối lượng giao dịch, cấp độ hiện tại và lịch sử hoa hồng ạ."
+    ]
+  },
+  {
+    "title": "Nếu tài khoản bị khóa hoặc phát hiện vi phạm, hoa hồng có bị ảnh hưởng không?",
+    "items": [
+      "Trường hợp tài khoản vi phạm chính sách (như tự giới thiệu, dùng tài khoản giả, chia sẻ thông tin tài chính...) Bitruth có quyền tạm dừng hoặc thu hồi toàn bộ hoa hồng liên quan ạ."
+    ]
+  },
+  {
+    "title": "Tôi có thể chuyển mã giới thiệu sang người khác không?",
+    "items": [
+      "Dạ rất tiếc là mỗi mã giới thiệu chỉ gắn với một tài khoản duy nhất và không thể chuyển nhượng được, mong bạn thông cảm nhé."
+    ]
+  },
+  {
+    "title": "Nếu người được giới thiệu giao dịch bằng điểm hoặc không mất phí thì có hoa hồng không?",
+    "items": [
+      "Các giao dịch không phát sinh phí sẽ không được tính hoa hồng. Hệ thống chỉ ghi nhận những giao dịch có tính phí thực tế."
+    ]
+  },
+  {
+    "title": "Bitruth có kiểm tra các tài khoản trùng lặp hoặc gian lận không?",
+    "items": [
+      "Dạ hệ thống sẽ kiểm tra và loại bỏ các tài khoản có dấu hiệu trùng lặp, giả mạo hoặc chia sẻ thông tin tài chính. Những tài khoản này sẽ không được tính hoa hồng để đảm bảo tính công bằng bạn nhé."
+    ]
+  }
+      ]
+    }
+  ]
+},
+{
+  "big_title":"Hỗ trợ khách hàng",
+  "sections":[
+    {
+       "section":"Giải quyết khiếu nại và thắc mắc",
+      "subsections":[
+          {
+    "title": "Khiếu nại gặp ai",
+    "items": [
+      "Bạn có thể liên hệ Bộ phận Chăm sóc khách hàng trực tiếp qua Livechat trên app hoặc website https://bitruth.com/"
+    ]
+  },
+  {
+    "title": "đăng kí tài khoản s",
+    "items": [
+      "Bạn có thể đăng ký tài khoản bằng email hoặc số điện thoại tại trang chủ Bitruth theo hướng dẫn sau:", 
+"Bước 1: Truy cập trang web https://bitruth.com/, chọn Đăng ký.", 
+"Bước 2: Điền đầy đủ các thông tin mà hệ thống yêu cầu.", 
+"Bước 3:  Sau đó xác minh email và hoàn tất cái đặt bảo mật 2 lớp ) 2FA) để hoàn tất. "
+
+    ]
+  },
+   {
+    "title": "trade s cho win",
+    "items": [
+      "Bitruth xin phép không đưa ra bất kỳ lời khuyên đầu tư nào. Nếu bạn cần tìm hiểu thêm về cách giao dịch, bạn có thể tham khảo các tài liệu hướng dẫn tại mục FAQ trong trang Hỗ Trợ của Bitruth nhé."
+    ]
+  },
+   {
+    "title": "Sàn có hợp pháp không",
+    "items": [
+      " Có. Chúng tôi vận hành hoàn toàn hợp pháp và tuân thủ luật pháp của từng quốc gia. Tại một số khu vực, Bitruth đã đăng ký giấy phép và hoạt động dưới sự giám sát của cơ quan quản lý. Ngoài ra, mọi người dùng đều phải xác minh danh tính (KYC) theo quy định. Bạn có thể yên tâm sử dụng."
+    ]
+  },
+   {
+    "title": "có lừa đảo k",
+    "items": [
+   "Chào bạn",
+"Bitruth là sàn giao dịch tài sản số vận hành minh bạch với đầy đủ hệ thống xác minh người dùng (KYC), bảo mật nhiều lớp và quy trình giám sát rủi ro liên tục.",
+"Sàn không can thiệp vào kết quả giao dịch và mọi hoạt động nạp/rút đều được kiểm soát qua hệ thống kiểm duyệt và cảnh báo tự động.",
+"Nếu bạn gặp bất kỳ sự cố nào liên quan đến giao dịch, tài khoản hay nghi ngờ bất thường, bạn vui lòng liên hệ trực tiếp với chúng tôi qua kênh hỗ trợ chính thức để được kiểm tra và xử lý kịp thời.",
+"Bitruth luôn cam kết bảo vệ quyền lợi người dùng và xử lý nghiêm các hành vi gian lận nếu có.  "  ]
+  },
+  {
+    "title": "Tôi không tìm thấy địa chỉ ví để nạp tiền",
+    "items": [
+ "Để lấy được địa chỉ nạp tiền, bạn vui lòng thao tác như sau:" ,
+"Vào mục Ví => Tổng quan ví => Chọn loại coin và thực hiện thao tác Nạp để lấy địa chỉ ví tương ứng."
+ ]
+  },
+  {
+    "title": "Tôi không nhận được email kích hoạt tài khoản",
+    "items": [
+" Hãy kiểm tra hộp thư spam. Nếu không thấy email, vui lòng kiểm tra lại địa chỉ email bạn đã nhập khi đăng ký",
+  "sau đó sử dụng chức năng 'Gửi lại email' để nhận lại. Nếu vấn đề vẫn tiếp diễn",
+ " vui lòng liên hệ với trung tâm khách hàng để được hỗ trợ."
+ ]
+  }
+      ]
+}
+
+]
+},
+{
+  "big_title":"Rủi ro",
+  "sections":[
+    {
+       "section":"Có rủi ro nào không",
+      "subsections":[
+          {
+    "title": "Rủi ro thị trường",
+    "items": [
+      "Giá tài sản có thể biến động mạnh, khiến bạn lỗ nếu đặt lệnh sai hướng – kể cả khi đây là môi trường mô phỏng."
+    ]
+  },
+  {
+    "title": "Rủi ro thao tác",
+    "items": [
+     " Nhập sai lệnh, chọn nhầm đòn bẩy hoặc đóng lệnh quá trễ có thể ảnh hưởng đến kết quả giao dịch."
+    ]
+  },
+   {
+    "title": "Rủi ro kỹ thuật",
+    "items": [
+     "Trong một số thời điểm có thể xảy ra gián đoạn kết nối, delay hiển thị hoặc lỗi hệ thống, dù Bitruth luôn cố gắng kiểm soát và xử lý nhanh nhất.",
+"Rủi ro bảo mật (với tài khoản người dùng):",
+"Chia sẻ tài khoản, mật khẩu hoặc mã xác thực (OTP) cho người khác có thể khiến bạn mất quyền truy cập hoặc bị kẻ gian lợi dụng."
+    ]
+  }
+  
+      ]
+}
+
+]
+}
+]
+}

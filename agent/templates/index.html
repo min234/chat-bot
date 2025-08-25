@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <title>Chatbot 테스트</title>
+  <style>
+    /* 최소한의 스타일 */
+    #chat { height: 300px; overflow-y: auto; border:1px solid #ccc; padding:10px; }
+    .message.user { text-align: right; }
+    .message.bot  { text-align: left; }
+  </style>
+</head>
+<body>
+  <div id="chat"></div>
+  <input id="input" placeholder="메시지 입력..." />
+  <button id="send">Send</button>
+
+  <!-- main.js 로드 -->
+  <script src="/static/main.js"></script>
+</body>
+</html>

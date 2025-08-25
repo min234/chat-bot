@@ -1,0 +1,427 @@
+[
+{
+"section": "THỂ LỆ CHUNG",
+  "subsections": [
+    {
+      
+      "title": "Điều kiện tham gia",
+      "items": [
+        "Tất cả người chơi cần đăng ký tài khoản bằng email hoặc số điện thoại",
+        "Mỗi ngày nhận 1.000 point miễn phí (reset lúc 07:00 hàng ngày)",
+        "Để đổi thưởng cần xác minh KYC (CMND/CCCD + số điện thoại)",
+        "Mỗi người chỉ được 1 tài khoản, 1 thiết bị và 1 IP"
+      ]
+    },
+    {
+      "title": "Quy định chung",
+      "items": [
+        "Nghiêm cấm các hành vi: spam, sử dụng bot, tạo nhiều tài khoản",
+        "Hình phạt: Cảnh cáo → Khóa tài khoản → Cấm IP nếu vi phạm",
+        "Điểm (point) chỉ có giá trị trong game, không quy đổi thành tiền mặt"  
+     ]
+    },
+    {
+      "title": "Đổi thưởng",
+      "items": [
+        "Đạt ít nhất 10.000 point + hoàn thành KYC + chơi ít nhất 10 lệnh hợp lệ",
+        "Bấm nút \"Đổi thưởng\" trên trang sự kiện",
+        "Chọn phần thưởng: Voucher hoặc USDT",
+        "Hệ thống sẽ gửi thông báo “Đang xử lý”, và quà sẽ được chuyển trong 1–2 ngày làm việc"
+      ]
+    },
+    {
+      "title": "Lưu ý",
+      "items": [
+        "Nếu tài khoản bị phát hiện spam, trùng IP, thiết bị hoặc click bất thường → hủy thưởng & khóa tài khoản",
+        "Mỗi UID chỉ nhận được bonus KYC và phần thưởng một lần duy nhất",
+        "Chỉ tài khoản đã xác minh đầy đủ (KYC + SĐT) mới có thể đổi thưởng",
+        "Tài khoản phụ, tổ chức và bot không đủ điều kiện tham gia sự kiện"
+      ]
+    },
+    {
+      "title": "Điều khoản khác",
+      "items": [
+        "Bitruth giữ quyền giải thích cuối cùng và điều chỉnh thể lệ sự kiện",
+        "Tham gia đồng nghĩa với đồng ý hoàn toàn với các điều khoản trên",
+        "Cơ cấu sự kiện và phần thưởng có thể thay đổi tùy theo điều kiện thị trường"
+      ]
+    },
+    {
+      "title": "Hỗ trợ",
+      "items": [
+        "Trực tiếp livechat tại website bitruth.com"
+      ]
+    }
+  ]},
+ {
+    "section":"THỂ LỆ TỪNG TRÒ CHƠI",
+    "subsections":{
+    "FUTURES X1000 (MÔ PHỎNG GIAO DỊCH)": [
+       {
+        "title":"Cách chơi",
+        
+        "items":[
+" Nhận 1.000 point mỗi ngày (reset lúc 07:00 mỗi ngày)",
+"Mỗi lệnh đặt tối thiểu 200 point",
+"Lệnh đúng: giữ điểm hoặc nhân lợi nhuận tương ứng.",
+"Lệnh sai: mất điểm đã cược"
+        ]
+       },
+       {
+        "title":"Ưu đãi",
+        
+        "items":[
+           " Thắng 3 ngày liên tiếp: +10% tổng điểm",
+"Thử thách phụ (ví dụ: 5 Wins Combo thưởng +2.000 point)"
+        ]
+       },
+       {
+        "title":"Quy định",
+        "items":[
+"Không đặt lệnh dưới 200 point",
+"Hết điểm có thể:",
+"Chờ reset ngày hôm sau",
+"Mời bạn bè để nhận thêm 1.000 point"
+        ]
+       }
+    ]}},
+    {
+    "section":"THỂ LỆ TỪNG TRÒ CHƠI",
+    "subsections":{"OPTION GAME (DỰ ĐOÁN GIÁ 1 PHÚT)":[
+       {
+        "title":"Cách chơi",
+        "items":[
+" Chế độ thật: cần KYC để đổi thưởng",
+"Dự đoán giá BTC/ETH tăng hoặc giảm sau 60 giây",
+"Dự đoán đúng: nhận x1.95 điểm cược",
+"Dự đoán sai: mất điểm"
+        ]
+       },
+       {
+        "title":"Lưu ý",
+        "items":[
+           " Mỗi người chỉ 1 tài khoản/thiết bị",
+"Nghiêm cấm sử dụng bot/spam"
+        ]
+       },
+       {
+        "title":"Phần thưởng",
+        "items":[
+"Thắng ≥10 lệnh/ngày: mở Lucky Box",
+"Top tuần: nhận danh hiệu Pro Badge"
+
+        ]
+       }
+    ]}},
+    {
+    "section":"THỂ LỆ TỪNG TRÒ CHƠI",
+    "subsections":{"HIGH/LOW (DỰ ĐOÁN NẾN NGẮN HẠN)":[
+       {
+        "title":"Cách chơi",
+        "items":[
+"Chế độ High/Low: dự đoán hướng nến (1 phút)",
+"Chế độ Open/Close: dự đoán giá đóng/mở cửa",
+"Dự đoán đúng: +50% điểm cược",
+"Dự đoán sai: mất điểm"
+        ]
+       },
+       {
+        "title":"Quy định:",
+        "items":[
+           " Đã KYC: không giới hạn lượt chơi"
+        ]
+       },
+       {
+        "title":"PKhuyến khích",
+        "items":[
+"Chơi 3 ngày liên tiếp + tỷ lệ thắng >50%: mở Lucky Box",
+"Top tuần: nhận voucher giao dịch thật"
+        ]
+       }
+    ]}},
+    {
+    "section": "FAQ GAME TRADING - GIAO DỊCH THẬT",
+    "subsections": [
+      {
+        "title": "Sự kiện “GAME TRADING - GIAO DỊCH THẬT” là gì",
+        "items": [
+          "Đây là sự kiện trải nghiệm giao dịch mô phỏng (Game Trading) trên sàn Bitruth, nơi người dùng nhận 1.000 point mỗi ngày để tham gia các trò chơi như Futures x1000, Option Game, và High/Low mà không cần nạp tiền và không rủi ro.",
+          "Người chơi sẽ sử dụng point để dự đoán giá thị trường (tăng/giảm), hoàn thành các thử thách (win streak, risk lover, comeback...), tích lũy điểm để lên bảng xếp hạng, và đổi point thành voucher hoặc USDT khi đủ điều kiện.",
+          "Sự kiện vừa mang tính giải trí, vừa giúp người chơi hiểu cơ chế giao dịch thật, và là bước đệm để chuyển đổi từ “người chơi game” thành “người giao dịch thật” trên Bitruth."
+        ]
+      },
+      {
+        "title": "Thời gian diễn ra sự kiện",
+        "items": [
+          "26/06"
+        ]
+      },
+      {
+        "title": "Đối tượng tham gia",
+        "items": [
+          "Tất cả người dùng đã đăng ký tài khoản Bitruth",
+          "Đã xác minh số điện thoại (OTP)",
+          "Đã hoàn tất xác minh danh tính (KYC)",
+          "Chỉ những người dùng đủ điều kiện KYC + OTP mới được đổi thưởng, nhận voucher hoặc USDT sau khi tham gia và đạt các mốc điểm hợp lệ."
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Các câu hỏi phụ",
+    "subsections": [
+      {
+        "title": "Tôi có thể chơi bao nhiêu lần/ngày?",
+        "items": [
+          "Futures: không giới hạn lệnh, nhưng điểm sẽ reset mỗi ngày."
+        ]
+      },
+      {
+        "title": "Làm sao để nhận phần thưởng thật?",
+        "items": [
+          "Cần KYC và xác thực số điện thoại và đăng nhập vào nền tảng Futures."
+        ]
+      },
+      {
+        "title": "Tôi có thể dùng nhiều tài khoản để chơi thêm?",
+        "items": [
+          "Không. Hệ thống kiểm tra IP + thiết bị + OTP. Tài khoản vi phạm sẽ bị khóa thưởng."
+        ]
+      },
+      {
+        "title": "Giá lấy từ đâu? Có real-time không?",
+        "items": [
+          "Giá được lấy từ Binance với độ trễ nhỏ và cộng thêm ±0.1–0.3% để chống spam tool."
+        ]
+      },
+      {
+        "title": "Tôi thắng nhiều thì có được gì thêm không?",
+        "items": [
+          "Người dùng sẽ được thưởng thêm điểm, mở Lucky Box, hiện tên lên bảng xếp hạng, và có cơ hội nhận USDT khi chuyển sang giao dịch thật."
+        ]
+      },
+      {
+        "title": "Khiếu nại dự đoán sai",
+        "items": [
+          "Cung cấp hình ảnh giao dịch liên quan, TXID và thời gian thực hiện đến bộ phận CSKH tại website hoặc Discord.",
+          "Sau khi nhận, bộ phận kỹ thuật sẽ kiểm tra và phản hồi trong vòng XX giờ."
+        ]
+      },
+      {
+        "title": "Tôi có thể cộng dồn points không?",
+        "items": [
+          "Không hỗ trợ cộng dồn điểm. Điểm giữ lại nhưng không được cộng thêm 1.000 nếu đã vượt ngưỡng.",
+          "Điểm cộng thêm chỉ áp dụng nếu user có dưới 1.000, hệ thống sẽ reset lên đúng 1.000."
+        ]
+      },
+      {
+        "title": "Điểm (point) có quy đổi thành tiền mặt không?",
+        "items": [
+          "Không. Điểm chỉ dùng để chơi game và đổi voucher/USDT theo quy định."
+        ]
+      },
+      {
+        "title": "Tại sao cần xác minh KYC?",
+        "items": [
+          "Đảm bảo công bằng và an toàn cho người chơi, ngăn chặn gian lận.",
+          "Chỉ tài khoản đã KYC mới được đổi quà và tuân thủ quy định pháp lý."
+        ]
+      },
+      {
+        "title": "Tôi chưa KYC thì có chơi được không?",
+        "items": [
+          "Có thể tham gia chơi và nhận point mỗi ngày nhưng phải KYC + OTP mới được đổi thưởng."
+        ]
+      },
+      {
+        "title": "Tôi có thể mời bao nhiêu người để nhận 1.000 point?",
+        "items": [
+          "Có thể mời nhiều người nhưng chỉ khi người được mời đăng ký + xác minh OTP thành công mới nhận được điểm."
+        ]
+      },
+      {
+        "title": "Tôi cần hỗ trợ trực tiếp thì liên hệ ở đâu?",
+        "items": [
+          "Live chat tại website Bitruth (góc dưới phải màn hình).",
+          "Email: contact@bitruth.com.",
+          "Kèm hình ảnh màn hình, UID hoặc TXID để xử lý nhanh."
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Đề xuất Dashboard CS",
+    "subsections": [
+      {
+        "title": "Tổng quan user",
+        "items": [
+          "UID, KYC, point, trạng thái game"
+        ]
+      },
+      {
+        "title": "Các mốc đã hoàn thành",
+        "items": [
+          "Số lệnh đã chơi, số người invite, số win streak..."
+        ]
+      },
+      {
+        "title": "Trạng thái hiện tại",
+        "items": [
+          "Đang chơi, đã redeem, đang pending"
+        ]
+      },
+      {
+        "title": "Công cụ tra cứu & kiểm tra trạng thái user",
+        "items": [
+          "Quick User Lookup theo UID/SDT, trạng thái tài khoản (K1, K2, K3), lịch sử +point/-point"
+        ]
+      },
+      {
+        "title": "Công cụ kiểm tra lịch sử giao dịch game",
+        "items": [
+          "Xem log chi tiết các lệnh game"
+        ]
+      },
+      {
+        "title": "Công cụ kiểm tra reward của User",
+        "items": [
+          "Theo dõi user đã đổi reward nào, thời gian redeem"
+        ]
+      }
+    ]
+    },
+     {
+    "section": "Giới Thiệu Chung",
+    "subsections": [
+      {
+        "title": "Tổng quan",
+        "items": [
+          "Game to Gain: Giao dịch Vui – Rinh Quà Đậm là sự kiện trải nghiệm giao dịch mô phỏng đột phá của Bitruth, mang đến cơ hội học hỏi và kiếm thưởng hoàn toàn miễn phí.",
+          "Người chơi nhận 1.000 point mỗi ngày, tham gia Futures x1000, Option Game, High/Low để dự đoán biến động giá mà không cần nạp tiền hay lo ngại rủi ro.",
+          "Hoàn thành thử thách như win streak, risk lover, comeback để tích lũy điểm, cạnh tranh bảng xếp hạng và đổi point thành USDT hoặc Lucky Box.",
+          "Không cần nạp tiền – Không rủi ro – Chơi càng nhiều, phần thưởng càng lớn!"
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Hướng dẫn tham gia",
+    "subsections": [
+      {
+        "title": "Cách bắt đầu",
+        "items": [
+          "Đăng ký tại Bitruth.com - Nhanh chóng, miễn phí 100%",
+          "Xác minh OTP để bảo mật tài khoản",
+          "Nhận ngay 1.000 point (reset mỗi ngày lúc 07:00 AM)",
+          "Truy cập game → Chọn 1 trong 3 chế độ giao dịch → Bắt đầu hành trình"
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Hướng dẫn cách chơi các chế độ",
+    "subsections": [
+      {
+        "title": "Futures - Auto mode",
+        "items": [
+          "Chọn đồng coin (BTC, ETH, SOL, ...)",
+          "Chuyển sang chế độ Tự động, chọn Tăng hoặc Giảm, nhập Khối lượng và mức Đòn bẩy",
+          "Thiết lập mức giá chốt lời và bấm Đặt lệnh",
+          "Xem lãi/lỗ tại Lệnh đang mở",
+          "Bấm Đóng lệnh để thoát vị thế hiện tại",
+          "Xem lịch sử giao dịch tại Lệnh đã chốt"
+        ]
+      },
+      {
+        "title": "Futures - Manual mode",
+        "items": [
+          "Chọn đồng coin (BTC, ETH, SOL, ...)",
+          "Chọn Tăng hoặc Giảm, nhập Khối lượng, mức Đòn bẩy",
+          "Bấm Đặt lệnh",
+          "Xem lãi/lỗ tại Lệnh đang mở",
+          "Bấm Đóng lệnh để thoát vị thế hiện tại",
+          "Xem lịch sử giao dịch tại Lệnh đã chốt"
+        ]
+      },
+      {
+        "title": "Options",
+        "items": [
+          "Chèn thêm hình hướng dẫn: https://prnt.sc/2n4lIo6-SA4H",
+          "Chọn đồng coin (BTC, ETH, SOL, ...)",
+          "Chọn khung thời gian: 1m, 2m, 3m, 5m",
+          "Trong giai đoạn dự đoán, nhập Khối lượng và chọn Tăng hoặc Giảm",
+          "Xem lệnh tại mục Lệnh đang mở và chờ kết quả",
+          "Xem lịch sử giao dịch tại Lệnh đã chốt"
+        ]
+      },
+      {
+        "title": "High-Low",
+        "items": [
+          "Chọn đồng coin (BTC, ETH, SOL, ...)",
+          "Nhập Khối lượng",
+          "Chọn Khung thời gian",
+          "Chọn Tăng hoặc Giảm",
+          "Theo dõi đếm ngược tại Lệnh đang mở",
+          "Sau khi hết thời gian, xem lãi/lỗ tại Lệnh đã chốt"
+        ]
+      }
+    ]
+  },
+   {
+    "section": "Các loại nhiệm vụ",
+    "subsections": [
+      {
+        "title": "Nhiệm vụ hàng ngày",
+        "items": [
+          "Điểm danh mỗi ngày: Nhận từ +100 đến +5.000 Points và 1 Lucky Box",
+          "Thực hiện ít nhất một lệnh chơi các chế độ Futures / Options / High-Low: +200 Points cho mỗi chế độ",
+          "Hoàn thành 3 nhiệm vụ bất kỳ trong ngày: +1.000 Points",
+          "Thực hiện mời bạn bè đăng ký và tham gia qua link giới thiệu: +1.000 Points / người"
+        ]
+      },
+      {
+        "title": "Thành tựu đặc biệt (Nhận 1 lần duy nhất)",
+        "items": [
+          "Đã hoàn tất xác thực danh tính (KYC)",
+          "Tham gia game trở lại sau thời gian không hoạt động",
+          "Thực hiện đổi điểm thưởng tại Cửa hàng ưu đãi",
+          "Nhấn theo dõi các trang mạng xã hội của Bitruth (YouTube, Facebook, ...)",
+          "Tham gia cộng đồng Discord",
+          "Thực hiện giao dịch đầu tiên từ 10.000 điểm trở lên"
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Mini-Challenges (Sắp ra mắt)",
+    "subsections": [
+      {
+        "title": "Các thử thách",
+        "items": [
+          "5 Wins Combo",
+          "Comeback Trader",
+          "Risk Lover",
+          "Volume Hunter"
+        ]
+      },
+      {
+        "title": "Phần thưởng",
+        "items": [
+          "+1.000 đến +2.000 Points kèm Lucky Box"
+        ]
+      }
+    ]
+  },
+  {
+    "section": "Bonus Missions",
+    "subsections": [
+      {
+        "title": "Bug Seeker",
+        "items": [
+          "Cơ hội nhận thưởng từ 1.000 đến 10.000 Points khi báo lỗi hợp lệ",
+          "Thực hiện báo lỗi qua form tại: [link form]"
+        ]
+      }
+    ]
+  }
+]
